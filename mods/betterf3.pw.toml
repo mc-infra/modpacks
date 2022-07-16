@@ -1,0 +1,13 @@
+name = "BetterF3"
+filename = "BetterF3-1.3.1-Fabric-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1d74cbefcac89f91dac734ab5b1ce768483f68b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3825938
+project-id = 401648

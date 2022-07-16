@@ -1,0 +1,13 @@
+name = "Guard Villagers (Fabric/Quilt)"
+filename = "guard-villagers-fabric-1.19-1.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e6f703a021bc603e03b84c39ed58a4663bc61c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3822351
+project-id = 571503

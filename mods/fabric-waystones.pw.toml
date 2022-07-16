@@ -1,0 +1,13 @@
+name = "Fabric Waystones"
+filename = "wraith-waystones-3.0.2+mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "120b514bdc2a05c4ae7ea92d652fad3f12c369e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3864569
+project-id = 410902

@@ -1,0 +1,14 @@
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+saves
+backups
+XaeroWaypoints
+XaeroWorldMap
+logs
+dashloader-cache
+.fabric
+fancymenu_data

@@ -1,0 +1,13 @@
+name = "DragonLoot"
+filename = "dragonloot-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac4dda177510513611cba5ed5ffd3014796e6c7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831053
+project-id = 424480

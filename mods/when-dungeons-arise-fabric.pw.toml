@@ -1,0 +1,13 @@
+name = "When Dungeons Arise - Fabric!"
+filename = "DungeonsArise-1.19-2.1.51-fabric-beta-hf.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdd5db66c011e53238d4560addc9c81b4f497285"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3854946
+project-id = 511812

@@ -1,0 +1,13 @@
+name = "JamLib"
+filename = "jam-lib-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fd14833c573519a58ddab88bd566773cb66751f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3846595
+project-id = 623764
