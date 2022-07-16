@@ -2032,7 +2032,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-express-fabric.pw.toml"
-hash = "33c5f2230daa805b03b774736d8a66151620fc2675ba40b76b68ef4d61f2e4e7"
+hash = "b1056a0df9a0680c552be81ad8dcd446485bd37b22af55030d760c32e032a1e9"
 metafile = true
 
 [[files]]
