@@ -1652,7 +1652,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "26cdf2380c07a361957d795822dde06e7296140fcd9b589f2f1988c3db16e824"
+hash = "92eedde824d1a942bcbb70b757da8d45faddedb27e99bfc9e0f08e8b02bda830"
 metafile = true
 
 [[files]]
@@ -2047,7 +2047,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "967674c89571c0e2cc9de0d3fc2131ab98a3e2bc65c5ca55d5d7a1980900aced"
+hash = "c443f10cda4ef15cc4488c9c2844d9045b107caf3cbcd39c1c435b43f5dc2f81"
 metafile = true
 
 [[files]]
