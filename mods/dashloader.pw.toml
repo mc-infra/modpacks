@@ -1,6 +1,6 @@
 name = "DashLoader"
 filename = "dashloader-4.0.0+1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

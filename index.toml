@@ -1187,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "6e37a53e0cc21c40bc27956d667189c278cefe61dab2a798fd4ba39bbf741687"
+hash = "180472f4a0e889f04fddb8a6ce3dac8d27701c89e652e51a751549fc1cf74f0c"
 metafile = true
 
 [[files]]
@@ -1222,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/axolotl-bucket-fix.pw.toml"
-hash = "14337a459231e6156b331a5ed3fa881f9c55e45fd5e4794ad8489c64e8396f65"
+hash = "62c5394518a17fa6f59c40e09b16458ed363682cd0c35fe725aaf0849bc077df"
 metafile = true
 
 [[files]]
@@ -1237,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "d8aca44f8019608d8482a409539f3f50cef73c499a27e91a8aabc6990ee6909f"
+hash = "c8d7f56711d2c8d0d2407e9b16dad7566e542064c8d4e544eb2bfaa993e9bbf6"
 metafile = true
 
 [[files]]
@@ -1247,7 +1247,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "4abdbfe570394a8cdd1e1874a2f89757f0d137a7c03612611b89c38b6249ea2e"
+hash = "780839be0102ffcf076a4261e581fe68e9b4fcb73e767cae3ced55f1d8489ca1"
 metafile = true
 
 [[files]]
@@ -1257,7 +1257,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "d12853921627c3c66589c3a3a0edda4d1672fb790e1b7f3c54244a93fc19f86e"
+hash = "729273671dd769f0d5eadb7b77572e3820e3d44fe91c0c7818865d15d3b04d46"
 metafile = true
 
 [[files]]
@@ -1272,17 +1272,12 @@ metafile = true
 
 [[files]]
 file = "mods/biome-particle-weather.pw.toml"
-hash = "94e5a7f6fe0794ddadb58390399aba0613f96afbf67fa0b4042ec6a387d0ecc3"
+hash = "e2a97552ab8fd7b83f5665c36e042531d06e020868475e045aad54adbe07d05d"
 metafile = true
 
 [[files]]
 file = "mods/biomeinfo-fabric.pw.toml"
-hash = "47caf9e6ef32658c0ed6a320d3be65ce6b4f83ac30addf0997de7cc05bf7d0a6"
-metafile = true
-
-[[files]]
-file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "4d7b48f528934a0eef59e55f77773b53da207d30daad7d6559f77035934871a5"
+hash = "3a70c525d008a3c76c2a0706c4e6b260bcbcde14be7bcb920d963e782ad04558"
 metafile = true
 
 [[files]]
@@ -1292,7 +1287,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "03e0a01e5b1d3dbed13649b3a26d212f52ce27a30bf15d221509238fb4e73e69"
+hash = "f3cc7fa542057f7bcc623be4eec19428df2545db6de8207023ecc30765c32061"
 metafile = true
 
 [[files]]
@@ -1327,22 +1322,22 @@ metafile = true
 
 [[files]]
 file = "mods/charmonium.pw.toml"
-hash = "f106ebf489ec22948ec9c92b3870cee068de00fec9114f09ede616d160fa99d8"
+hash = "a4fa357fd7a960aeaa522d8026cc6882f24b8c422f76c9c5b82361cd426e06d6"
 metafile = true
 
 [[files]]
 file = "mods/cherished-worlds-fabric.pw.toml"
-hash = "b050cff0e89de2dee4fedd716cf06e5ff985498cde864cfcc815bf3b64b780c3"
+hash = "38fe62798ea345ae8609129d0cb6af6d291a0f5052121f4baad53f4840f4481b"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "a662fdb75dc2676b5912ba07b17a481fb1f9c64b9bd93820936997a77aa1636e"
+hash = "56892a3208d459c16166e34929e87a9789151cb85497de9851e7a5fffae81636"
 metafile = true
 
 [[files]]
 file = "mods/cleancut.pw.toml"
-hash = "5e68cd93dca50b9f8f62dd87640d3341452ae013bc968d00f424cb9ebab4d51c"
+hash = "823e39789de132f53670a7e8c84f1b7874bdb990994acab47852227a92e4151d"
 metafile = true
 
 [[files]]
@@ -1367,7 +1362,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.pw.toml"
-hash = "7aa8ced63d137481245c7ea9a15b5486193dc2ff944a15ca92479f093da0dc85"
+hash = "6e6d5f3293d8353d58043cd550dd5f6240646dd63ded504f1f3379747d9bf896"
 metafile = true
 
 [[files]]
@@ -1377,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "15fdaff0cb9342b772aa104d98eb4b116b3df442f689fa607ef6656c66468ffc"
+hash = "05e7966e86e8274dab55c3dcdf4b38b3bf8559c87dea7868b51b9529ddc0705a"
 metafile = true
 
 [[files]]
@@ -1397,12 +1392,12 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "a4f1b4126dc3fdd6815012df939a60df9d4ae2721a2bc869d216b946ffe7b757"
+hash = "f7b91bc067d29731e5f3246a120bcbfe13555ec43e75b9176d889eff69d217ae"
 metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.pw.toml"
-hash = "f78fdd7d632b5e90ba87232795ce5862bfb6c57df924e1b8e3510b4ad8bcf37f"
+hash = "5aa835a92b315c861a80cd477557da180bbcebe7d8e2a9604d0a0e722063662b"
 metafile = true
 
 [[files]]
@@ -1412,7 +1407,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "cc415f58bb6213bae91e5be23aa049cace89ed866d861f0ab928c4616386b96a"
+hash = "1d3d3270ea45dde2ed52390b665c8e123cbc8a19864578762b958b2dbf69d327"
 metafile = true
 
 [[files]]
@@ -1437,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen-fabric.pw.toml"
-hash = "a8ac8769097ff3db9616194f8d669f438d2ee26bf054bfa6ffa6208cf61d6e5e"
+hash = "94141743a7155863743888da17d9d9092fad07889e3545fa7a3240ed2ba682c9"
 metafile = true
 
 [[files]]
@@ -2082,7 +2077,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "bdd6836216af0ecba546d073141d38552180d49d6ea8b0e203bd7f62537d5666"
+hash = "d61c0658bc7346a7c637476c5fa38fc0193202ea3a9f6345a49a763de686676c"
 metafile = true
 
 [[files]]

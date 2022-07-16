@@ -1,6 +1,6 @@
 name = "Biome Particle Weather"
 filename = "BiomeWeatherEffects-3.4.9.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
