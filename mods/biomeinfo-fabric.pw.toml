@@ -1,13 +1,13 @@
 name = "BiomeInfo (Fabric)"
-filename = "biomeinfo-1.19-11.jar"
-side = "client"
+filename = "biomeinfo-1.18.2-10.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "91e280ae2113862d21cbdbeab7a29f3e59f05b46"
+hash = "168d57cf385b87660517e22139e2bed0d8f8e049"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3824651
+file-id = 3670059
 project-id = 328166

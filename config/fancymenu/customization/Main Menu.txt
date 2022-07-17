@@ -19,7 +19,7 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  identifier = %id=400310%
   orientation = mid-centered
   x = -100
   action = movebutton
@@ -27,7 +27,7 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=400358%
   orientation = mid-centered
   x = 104
   action = movebutton
@@ -35,25 +35,25 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=400358%
   width = 20
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=400358%
   action = setbuttonlabel
   value = 
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  identifier = %id=604394%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  identifier = %id=400286%
   orientation = mid-centered
   x = -100
   action = movebutton
@@ -61,12 +61,12 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  identifier = %id=400334%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  identifier = %id=400394%
   orientation = mid-centered
   x = -100
   action = movebutton
@@ -74,7 +74,7 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  identifier = %id=502394%
   orientation = mid-centered
   x = 104
   action = movebutton
@@ -82,70 +82,24 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  identifier = %id=502394%
   width = 20
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  identifier = %id=502394%
   action = setbuttonlabel
   value = 
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  identifier = %id=376394%
   orientation = mid-centered
   x = -124
   action = movebutton
   y = 53
-}
-
-customization {
-  orientation = top-left
-  hidden = true
-  x = 2
-  width = 157
-  action = deep_customization_element:title_screen_branding
-  actionid = 2d09e60e-5ce4-4068-92ce-245582d6ba5a1657065014621
-  y = 468
-  height = 10
-}
-
-customization {
-  orientation = top-left
-  hidden = true
-  x = 530
-  width = 13
-  action = deep_customization_element:title_screen_realms_notification
-  actionid = 81ed82cc-e20b-420b-b2fe-e5eada89e82a1657065014623
-  y = 220
-  height = 13
-}
-
-customization {
-  orientation = top-left
-  hidden = true
-  x = 290
-  width = 274
-  action = deep_customization_element:title_screen_logo
-  actionid = 0e037e93-8005-4fc7-9c90-ec07236ce65e1657065014623
-  y = 30
-  height = 52
-}
-
-customization {
-  orientation = original
-  splash_color = #ffff00
-  hidden = true
-  x = 0
-  width = 60
-  splash_rotation = -20
-  action = deep_customization_element:title_screen_splash
-  actionid = e38f4f34-4066-4300-bff7-6f01093879b81657065014623
-  y = 0
-  height = 30
 }
 
 customization {
@@ -247,6 +201,6 @@ customization {
   y = -11
   scale = 1.0
   alignment = left
-  value = Created by SHXRKIE
+  value = Created by Sharkie
 }
 

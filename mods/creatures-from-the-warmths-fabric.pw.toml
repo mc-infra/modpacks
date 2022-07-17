@@ -1,0 +1,13 @@
+name = "Creatures From The Warmths! [Fabric]"
+filename = "CreaturesFromTheWarmths-2.1.0+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8e76a15827b1895cdd6872b282cac168e92e46c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3812470
+project-id = 581486

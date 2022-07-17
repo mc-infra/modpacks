@@ -1,13 +1,13 @@
 name = "More Axolotls"
-filename = "more-axolotls-1.0.2-1.19.jar"
+filename = "more-axolotls-1.0.2-1.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1a42ea8eee38808a9d8a45e86c148e283946d7c1"
+hash = "d262487cc092d4ce547d80981c1080daece6ea02"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3827371
+file-id = 3568753
 project-id = 548608

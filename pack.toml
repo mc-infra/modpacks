@@ -1,13 +1,13 @@
-name = "Better MC"
-author = "mc-infra"
-version = "v2.5"
+name = "Better MC [FABRIC] - v13"
+author = "SHXRKlE"
+version = "v13"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ea366df010f2aed01df4bda12694cc91efc2a0cc5138770067194fe0170b23bf"
+hash = "48a26b9e1b33c04efa1a8c62a79060188f22a5c1e7817f9947b20dd09985fe8d"
 
 [versions]
-fabric = "0.14.8-1.19"
-minecraft = "1.19"
+fabric = "0.14.7"
+minecraft = "1.18.2"

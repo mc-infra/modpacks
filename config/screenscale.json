@@ -1,0 +1,6 @@
+{
+  "menuScale": {
+    "desc:": "UI scale of menus, default \u003d 0(Auto)",
+    "menuScale": 0
+  }
+}

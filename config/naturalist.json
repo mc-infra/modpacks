@@ -1,16 +1,13 @@
 {
-  "snailSpawnWeight": 5,
+  "snailSpawnWeight": 4,
   "snakeSpawnWeight": 4,
   "coralSnakeSpawnWeight": 4,
   "rattlesnakeSpawnWeight": 4,
-  "bearSpawnWeight": 8,
-  "deerSpawnWeight": 8,
+  "bearSpawnWeight": 6,
+  "deerSpawnWeight": 6,
   "fireflySpawnWeight": 8,
-  "bluejaySpawnWeight": 8,
-  "canarySpawnWeight": 8,
-  "cardinalSpawnWeight": 8,
-  "robinSpawnWeight": 8,
-  "butterflySpawnWeight": 6,
-  "forestRabbitSpawnWeight": 6,
-  "forestFoxSpawnWeight": 6
+  "birdSpawnWeight": 10,
+  "butterflySpawnWeight": 4,
+  "forestRabbitSpawnWeight": 4,
+  "forestFoxSpawnWeight": 4
 }

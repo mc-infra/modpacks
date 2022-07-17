@@ -1,0 +1,13 @@
+name = "Post Materia"
+filename = "post-materia-1.0.0-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf2b46b8103fd3e91b540ee9b333aec484265006"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3745265
+project-id = 609705

@@ -19,7 +19,6 @@
     "allowMixedLogs": false,
     "breakNetherTreeWarts": true,
     "instantlyBreakWarts": false,
-    "breakMangroveRoots": true,
     "searchAreaRadius": -1,
     "allowedAdjacentBlocks": [],
     "adjacentStopMode": "STOP_ALL"
@@ -43,6 +42,5 @@
   },
   "sneakMode": "SNEAK_DISABLE",
   "breakInCreative": false,
-  "lootInCreative": true,
   "notificationMode": "ACTION_BAR"
 }

@@ -153,30 +153,6 @@ If your settings in this file seem to have to no effect on the generation of the
 			{
 				"data": "betterend:ice_starfield",
 				"weight": 2
-			},
-			{
-				"data": "betterend:empty_end_cave",
-				"weight": 2
-			},
-			{
-				"data": "betterend:empty_smaragdant_cave",
-				"weight": 2
-			},
-			{
-				"data": "betterend:lush_smaragdant_cave",
-				"weight": 2
-			},
-			{
-				"data": "betterend:empty_aurora_cave",
-				"weight": 2
-			},
-			{
-				"data": "betterend:lush_aurora_cave",
-				"weight": 2
-			},
-			{
-				"data": "betterend:jade_cave",
-				"weight": 2
 			}
 		]
 	},

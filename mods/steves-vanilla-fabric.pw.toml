@@ -1,13 +1,13 @@
 name = "Steve's Vanilla! [Fabric]"
-filename = "StevesVanilla-1.2.0+1.19.jar"
+filename = "StevesVanilla-1.1.0+1.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5d2e8072b87c7ac6eb95b6d51c19b0ab544f24b8"
+hash = "b09caa73824504883e0784ffded92c0e2e9bc515"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3837456
+file-id = 3790150
 project-id = 594718

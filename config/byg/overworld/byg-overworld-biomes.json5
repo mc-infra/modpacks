@@ -16,7 +16,6 @@ to make editing this file much easier.
 	"regions": [
 		"region_1",
 		"region_2",
-		"region_3",
-		"rare_region_1"
+		"region_3"
 	]
 }

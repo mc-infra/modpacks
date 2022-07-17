@@ -3,7 +3,7 @@
 'chest' : '',
 'legs' : '',
 'feet' : '',
-0 : '{Count:1b,id:"minecraft:written_book",tag:{author:"SHAXRKIE",pages:['{"text":"Hi, Quests will be added when the \\nFTB Quests Mod ports to Version 1.19.\\n\\nIf you are interested in the Bosses and New Mobs check out the  Bosses of Mass Destruction Mod and the AdventureZ Mod\\n"}'],resolved:1b,title:"Quests"}}',
+0 : '{Count:1b,id:"ftbquests:book"}',
 1 : '',
 2 : '',
 3 : '',

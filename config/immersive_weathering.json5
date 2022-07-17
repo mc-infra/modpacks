@@ -14,7 +14,6 @@
 		"leafPilesConvertBlockBelow": true,
 		"leggingsPreventThornDamage": true,
 		"composterDropsDirt": true,
-		"mulchGrowsCrops": true,
 		"featherFallingFarmer": true
 	},
 	"fireAndIceConfig": {
@@ -25,11 +24,7 @@
 		"lightningCreateVitrifiedSand": true,
 		"flammableCobwebs": true,
 		"freezingWater": true,
-		"freezingWaterSeverity": 200,
 		"permafrostFreezing": true,
-		"freezingPermafrostSeverity": 200,
-		"icicleFreezing": true,
-		"freezingIcicleSeverity": 300,
 		"thinIceFormation": true,
 		"thinIceMelting": false,
 		"glassFrosting": true,

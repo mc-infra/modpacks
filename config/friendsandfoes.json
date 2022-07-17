@@ -29,9 +29,11 @@
   "enableIceologer": true,
   "enableIceologerSpawn": true,
   "enableIceologerInRaids": true,
+  "generateIceologerCabinStructure": true,
   "enableIllusioner": true,
   "enableIllusionerSpawn": true,
   "enableIllusionerInRaids": true,
+  "generateIllusionerShackStructure": true,
   "enableBeekeeperVillagerProfession": true,
   "generateBeekeeperAreaStructure": true
 }

@@ -1,13 +1,13 @@
 name = "🪵 Twigs"
-filename = "twigs-fabric-2.0.0-beta.8+1.19.jar"
+filename = "twigs-fabric-1.1.3-patch2+1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5593cdb402ae32100290fc951798c0ce7a11cb3a"
+hash = "5470569fc70021ae2affb11096f0a80f560869fe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3865476
+file-id = 3846805
 project-id = 496913

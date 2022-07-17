@@ -1,0 +1,13 @@
+name = "Universal Bone Meal [Outdated]"
+filename = "UniversalBoneMeal-v3.0.5-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "462890366f491de48be23ee9edf0da7049587d7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3782625
+project-id = 596516

@@ -48,8 +48,8 @@ Biome selectors may be inlined or may call a file from "this_file_parent_directo
 	*/
 	"middle_biomes_variant": "middle_biomes_variant/middle_biomes_variant_vanilla",
 	/* Appearing on terrain below sea level, here is the "ocean_biomes" layout:
-	   [ DEEP-ICY, DEEP-COLD, DEEP-NEUTRAL, DEEP-WARM, DEEP-HOT ]
 	   [ SHALLOW-ICY, SHALLOW-COLD, SHALLOW-NEUTRAL, SHALLOW-WARM, SHALLOW-HOT ],
+	   [ DEEP-ICY, DEEP-COLD, DEEP-NEUTRAL, DEEP-WARM, DEEP-HOT ]
 	   
 	   All keys passed in must be valid in the biome registry!
 	   "minecraft:the_void" is invalid as it represents a value of "NULL(nothing)" internally.
@@ -131,8 +131,7 @@ Biome selectors may be inlined or may call a file from "this_file_parent_directo
 	   }
 	*/
 	"swapper": {
-		"minecraft:mangrove_swamp": "byg:bayou",
-		"minecraft:swamp": "byg:cypress_swamplands"
+		"minecraft:swamp": "byg:bayou"
 	},
 	/* The weight of this provider/region against all other providers.
 	   Higher numbers do NOT increase the provider's size.

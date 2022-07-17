@@ -1,0 +1,13 @@
+name = "Enchantment Lore"
+filename = "enchantment-lore-1.2.6-1+MC1.18-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c781b0f329461bc96269c0c99e8cc028a4b94ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3695090
+project-id = 430219

@@ -1,13 +1,13 @@
 name = "Spirit"
-filename = "spirit-fabric-1.19-2.1.2.jar"
+filename = "spirit-fabric-1.18.2-2.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3ee9f8165499aa4a0efa9516c5db024bae5dcc02"
+hash = "796c662d4075322f6bdc29f6f3986bb0b9e3ab6c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3868798
+file-id = 3879744
 project-id = 495509

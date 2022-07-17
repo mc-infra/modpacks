@@ -62,8 +62,6 @@ inCustom = "minecraft:dirt"
 levelzXpInGraves = true
 levelzXpDropPercent = 100
 claimRuleOverride = "CREATE_GRAVE"
-prioritiseTheGraveyardGraves = false
-graveyardSearchRadius = 10
 
 [graveSettings.graveRenderSettings]
 useRenderFeatures = true
@@ -74,37 +72,6 @@ adaptRenderer = false
 glowingGrave = true
 glowMinDistance = 0
 glowMaxDistance = 10
-
-[graveSettings.graveRenderSettings.guiTextColors]
-graveSelectGraveLocation = 13369548
-graveSelectItemSize = 204
-graveSelectLevelSize = 2725384
-graveSelectTitle = 5592405
-graveSelectPageView = 30464
-graveSelectShowAvailableCheckbox = 7829367
-graveSelectShowClaimedCheckbox = 7829367
-graveSelectShowDestroyedCheckbox = 7829367
-graveSelectShowStatusCheckbox = 7829367
-graveViewLockGrave = 0
-graveViewUnlockGrave = 0
-graveViewRestoreGrave = 0
-graveViewDeleteGrave = 0
-graveViewRobGrave = 0
-graveViewGiveKey = 0
-graveViewDeathMessage = 11141120
-graveViewDeathDimension = 21956
-graveViewCoordinates = 12255419
-graveViewModItemSize = 5592405
-graveViewLevelSize = 2725384
-playerSelectPlayerName = 16384
-playerSelectGraveCount = 5592405
-playerSelectTitle = 5592405
-playerSelectPageView = 30464
-playerSelectIncludeAvailableCheckbox = 7829367
-playerSelectIncludeClaimedCheckbox = 7829367
-playerSelectIncludeDestroyedCheckbox = 7829367
-playerSelectShowZeroCheckbox = 7829367
-playerSelectSearchBar = 16777215
 [utilitySettings.soulboundEnchant]
 enabled = true
 isTreasure = false
@@ -137,6 +104,3 @@ whitelist = true
 whitelistAdd = true
 whitelistRemove = true
 whitelistToggle = true
-[debugConfig]
-clearInventoryOnRespawn = false
-createGraveBeforeDeathMessage = false

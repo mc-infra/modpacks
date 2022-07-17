@@ -1,0 +1,13 @@
+name = "Vanilla Degus"
+filename = "vanilla_degus-1.18.2-v1.3.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6fdd6fee5f132fd0c0d0b77991c53de087b01ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3686859
+project-id = 463073

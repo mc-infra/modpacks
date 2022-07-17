@@ -6,7 +6,6 @@
   "chorus_nylium [default: true]": true,
   "cave_moss [default: true]": true,
   "crystal_moss [default: true]": true,
-  "crystal_moss_cover [default: true]": true,
   "shadow_grass [default: true]": true,
   "pink_moss [default: true]": true,
   "amber_moss [default: true]": true,

@@ -1,0 +1,13 @@
+name = "Grizzly bear Mod"
+filename = "grizzlybear-1.18-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "469d7828eb965b2cc410328f575d5514d8a971a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3681784
+project-id = 494751

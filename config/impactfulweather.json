@@ -5,6 +5,7 @@
     "updrafts": true,
     "soulstorms": true,
     "endlessnweather": false,
+    "dodenserain": true,
     "sandstorms": true,
     "redsandstorms": true,
     "blizzards": true,
@@ -25,8 +26,7 @@
     "tearmodifier": 1.0,
     "rainmodifier": 1.0,
     "heavyrainmodifier": 1.0,
-    "tumblebushmodifier": 1.0,
-    "fireflymodifier": 1.0
+    "tumblebushmodifier": 1.0
   },
   "misc": {
     "nweatherbasedelay": 120,
@@ -34,13 +34,12 @@
     "renderedweather": false,
     "snowspeedmodifier": 1.0,
     "searchDist": {
-      "x": 16,
-      "y": 16,
-      "z": 16
+      "x": 32,
+      "y": 32,
+      "z": 32
     }
   },
   "particletoggles": {
-    "fireflies": true,
     "sandmote": true,
     "redsandmote": true,
     "tumblebush": true,

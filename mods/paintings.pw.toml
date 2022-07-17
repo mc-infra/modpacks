@@ -1,13 +1,13 @@
 name = "Paintings ++"
-filename = "Paintings-fabric-1.19-10.0.0.0.jar"
+filename = "Paintings-fabric-1.18.2-9.1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a9f48e31920af36e1813ea3470d6afcaf3625012"
+hash = "135bd92b504e226e95158e5f81576c49ef93a04e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3834973
+file-id = 3788081
 project-id = 252042

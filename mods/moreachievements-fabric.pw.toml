@@ -1,0 +1,13 @@
+name = "MoreAchievements [Fabric]"
+filename = "MoreAchievements-1.18.1-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "205284146171c0c70157f31c6414a505f5eec534"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3667786
+project-id = 560975

@@ -1,6 +1,6 @@
 name = "Axolotl Bucket Fix"
 filename = "axolotl-item-fix-1.1.3.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
