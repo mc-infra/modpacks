@@ -941,34 +941,6 @@ file = "config/patchouli.json5"
 hash = "92dc9dadb34707462bf5574bb597430b3b34c65eccf964a31680d402f0431ccf"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v2.zip"
-hash = "1ca06334c4baa75751d13e347668846106051b0cd177bad4a0c03e3519b80049"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Strongholds_v3.zip"
-hash = "eb44dafb1995c862e750ffd13b75e59244ab7c306b5ca9bfb1209394330f4271"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Bountiful_Fabric.zip"
-hash = "004e4bebcd5573ba57b0376b474b4afb5c66f38c8397488d34a0d5a93142ac49"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v3.zip"
-hash = "ed036feca38d73907832b79af8efe8a0c84410172d98d4aa9c7f67e2255343fb"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Friends_And_Foes-v1.zip"
-hash = "ed8537ab125bf8945b770e75db2a0f124f856cf0c7147e8730de95dfee69ea93"
-
-[[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-More_Villagers_v6.zip"
-hash = "197ee69326f0ffc565f458248c18f037af78d50a1a8ae2af035977426017c643"
-
-[[files]]
-file = "config/paxi/datapacks/ichphilipp-s-endcity-better-end-1-18-1.zip"
-hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
-
-[[files]]
 file = "config/puzzle.json"
 hash = "3a0fd33eca8d3fa65214b93f3f0ac4cf4627fe265caa2f8a8034405ca83fcde7"
 
