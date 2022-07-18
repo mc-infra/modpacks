@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3854946
 project-id = 511812
+
+[option]
+optional = true
+default = false
+description = "Causes issues with the server"
