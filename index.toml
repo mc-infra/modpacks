@@ -723,11 +723,6 @@ hash = "58445e46c8bd9793021ccdf62cda503c769b9757539e5e577461b0a4742358b7"
 metafile = true
 
 [[files]]
-file = "mods/creatures-from-the-snow-fabric.pw.toml"
-hash = "dbe0ebedb8ac3ef299e81a89a1ec5089c25bb74a9f6e6188b9042564221286fc"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "f7b91bc067d29731e5f3246a120bcbfe13555ec43e75b9176d889eff69d217ae"
 metafile = true
