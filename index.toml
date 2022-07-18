@@ -1538,7 +1538,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "3ef31f3ef1c8730442991b96d85e01d27e609e8c8cd09d74eacaaf092db26551"
+hash = "7b1a674b8de91f997974a5db090d327c03f98bb089193391fda2092575b384f5"
 metafile = true
 
 [[files]]
