@@ -1,0 +1,13 @@
+name = "Repurposed Structures - More Villagers Compat Datapack"
+filename = "Repurposed_Structures-More_Villagers_v7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f540aca8fdead037a76c360bef248126fc2fbbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3835980
+project-id = 554334

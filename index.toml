@@ -433,40 +433,12 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
-file = "config/openloader/data/Repurposed_Structures-Friends_And_Foes-v2.zip"
-hash = "3ea15dc10b4b5539ab57049024f3bbf97b2f284dfcef2cf1966ba1530b97892c"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-More_Villagers_v7.zip"
-hash = "88baba1614455cd7b9bd2194db3a68f3641e6772b0223e9c0b643fef71b12095"
-
-[[files]]
-file = "config/openloader/data/dungeons-arise-1-19-v1-1.zip"
-hash = "e4264f309e5b5bf7cfabc747c1422a3e182e040220f48bfe08b94c4d2153c14a"
-
-[[files]]
-file = "config/openloader/data/ichphilipp-s-endcity-better-end-1-18-1.zip"
-hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
-
-[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "a12d3fae5e61033af2074509ee440a173b3e430e08186511f1f7162ebf87ca65"
 
 [[files]]
 file = "config/sdrp.json"
 hash = "a04443a78118f0f05a6e88fb07b8d066d9027201243fbe22e3d659dc07017842"
-
-[[files]]
-file = "config/starterkit/starterkit-old.txt"
-hash = "2863ecc963d0153cdd3734ec46fe9f7ec2d6ccec575fe345fc061cfa5fa28045"
-
-[[files]]
-file = "config/starterkit/starterkit-old_0.txt"
-hash = "584978b64427e4ed62c277a3ee72c3713acb16c6f36221229b672e163695199a"
-
-[[files]]
-file = "config/starterkit/starterkit-old_1.txt"
-hash = "9ea73a9276b50c596d8eeb5e261e35691b2b28cb4ce9790bb93fee3c6b5f3e69"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -1358,4 +1330,14 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "d61c0658bc7346a7c637476c5fa38fc0193202ea3a9f6345a49a763de686676c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
+hash = "2f340661771ee2c6e2ab42331cf9f7062f171d32c1cbf2fbfb8b0f85b4589e5a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-more-villagers-datapack.pw.toml"
+hash = "30332ca99dae20db5d8922f9e4913d4a5a6354f2dbe64c2c32a57e1b80ff5422"
 metafile = true
