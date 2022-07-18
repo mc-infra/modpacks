@@ -430,7 +430,17 @@ hash = "4c805c03fb8d4a1bc83c6524ad8f947caab9b7878e4c7b9d03da44f7f431a48e"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
-hash = "4b120ded43abd0c49ea890e313ef4130382cf2af6722c15a82288798a4298017"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-friends-and-foes-datapack.pw.toml"
+hash = "2f340661771ee2c6e2ab42331cf9f7062f171d32c1cbf2fbfb8b0f85b4589e5a"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-more-villagers-datapack.pw.toml"
+hash = "30332ca99dae20db5d8922f9e4913d4a5a6354f2dbe64c2c32a57e1b80ff5422"
+metafile = true
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -1330,14 +1340,4 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "d61c0658bc7346a7c637476c5fa38fc0193202ea3a9f6345a49a763de686676c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
-hash = "2f340661771ee2c6e2ab42331cf9f7062f171d32c1cbf2fbfb8b0f85b4589e5a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/repurposed-structures-more-villagers-datapack.pw.toml"
-hash = "30332ca99dae20db5d8922f9e4913d4a5a6354f2dbe64c2c32a57e1b80ff5422"
 metafile = true
