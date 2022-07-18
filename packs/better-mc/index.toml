@@ -928,11 +928,6 @@ hash = "2027fc62f27fdabd1f6485dbdc2f4316ea6b04dedf595f839651020d2d861a69"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering-fabric.pw.toml"
-hash = "9549d5918a2a48f0fc9bc2146d2afee3b4d6cb17aeae87d1c1ccad9ad9dc7756"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e496db6878475e0cd41a2178ce354999574f2c8c47e27a7f0dc488e30edb3fb8"
 metafile = true
