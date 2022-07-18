@@ -1367,11 +1367,6 @@ hash = "5aa835a92b315c861a80cd477557da180bbcebe7d8e2a9604d0a0e722063662b"
 metafile = true
 
 [[files]]
-file = "mods/dark-paintings.pw.toml"
-hash = "9fc8b57ab7fa9d25256580f82976978c7a174aaf67332bda3f06e7de686d3187"
-metafile = true
-
-[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "1d3d3270ea45dde2ed52390b665c8e123cbc8a19864578762b958b2dbf69d327"
 metafile = true
