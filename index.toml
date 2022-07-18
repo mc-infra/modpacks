@@ -181,14 +181,6 @@ file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
-file = "config/byg/backups/backup_2022-07-17_15.41.54.zip"
-hash = "84322f0f2f13e9797c938dda04e104b3cea0695326fc659a095949d58d0266fa"
-
-[[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "c54d4df2b4bea7126f0e4515fa4f9b244ebf308d2bbbcefcf0bee7112b99de9a"
-
-[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
 

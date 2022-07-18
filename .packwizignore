@@ -1,7 +1,7 @@
 # Exclude README
 /README.md
 /saves
-/backups
+backups
 /XaeroWaypoints
 /XaeroWorldMap
 /dashloader-cache
