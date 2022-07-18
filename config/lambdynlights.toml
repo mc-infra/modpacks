@@ -126,9 +126,6 @@ mode = "fancy"
 				wandering_trader = true
 				tropical_fish = true
 
-			[light_sources.settings.entities.creatures_of_the_snow]
-				narwhal = true
-
 			[light_sources.settings.entities.earthtojavamobs]
 				pale_pig = true
 				cookie_cow = true
