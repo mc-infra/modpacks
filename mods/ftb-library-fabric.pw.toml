@@ -3,8 +3,8 @@ filename = "ftb-library-fabric-1900.3.7-build.131.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c5a8647ecb095cfc85d58ac6c58b5cbdb813b68"
+hash-format = "md5"
+hash = "56fa33704f5e8ccb312dbf585c331516"
 mode = "metadata:curseforge"
 
 [update]
