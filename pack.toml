@@ -1,6 +1,6 @@
 name = "Better MC"
 author = "mc-infra"
-version = "v2.6"
+version = "v2.6.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
