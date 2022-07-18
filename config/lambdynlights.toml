@@ -121,10 +121,9 @@ mode = "fancy"
 				egg = true
 				ender_pearl = true
 				experience_bottle = true
-				wolf = true
-				trader_llama = true
-				wandering_trader = true
-				tropical_fish = true
+
+			[light_sources.settings.entities.creatures_of_the_snow]
+				narwhal = true
 
 			[light_sources.settings.entities.earthtojavamobs]
 				pale_pig = true
