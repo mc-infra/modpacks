@@ -5,6 +5,8 @@
   },
   "dataPacks": {
     "enabled": true,
-    "additionalFolders": []
+    "additionalFolders": [
+      "../../resourcepacks"
+    ]
   }
 }

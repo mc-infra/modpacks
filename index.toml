@@ -430,7 +430,7 @@ hash = "4c805c03fb8d4a1bc83c6524ad8f947caab9b7878e4c7b9d03da44f7f431a48e"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
-hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+hash = "4b120ded43abd0c49ea890e313ef4130382cf2af6722c15a82288798a4298017"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
