@@ -994,7 +994,7 @@ hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
 file = "config/spirit.json"
-hash = "1e1600bea49cbe84b64e648df2ce52d175f0a6c2b6f584ad80f2448fa8c2927b"
+hash = "b0d611c08c5f80c73d94474196671588c18a9a506488ce8ed11804d10aa11039"
 
 [[files]]
 file = "config/starterkit-fabric.json"
