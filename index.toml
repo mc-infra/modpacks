@@ -994,7 +994,7 @@ hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
 file = "config/spirit.json"
-hash = "b0d611c08c5f80c73d94474196671588c18a9a506488ce8ed11804d10aa11039"
+hash = "1e1600bea49cbe84b64e648df2ce52d175f0a6c2b6f584ad80f2448fa8c2927b"
 
 [[files]]
 file = "config/starterkit-fabric.json"
@@ -1368,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-paintings.pw.toml"
-hash = "18d18b9d68033ad6943d812253d0249ff572e1900ca5fcfe5361eb7f1158ed5a"
+hash = "9fc8b57ab7fa9d25256580f82976978c7a174aaf67332bda3f06e7de686d3187"
 metafile = true
 
 [[files]]
