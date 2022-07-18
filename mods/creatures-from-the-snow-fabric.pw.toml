@@ -1,0 +1,13 @@
+name = "Creatures From The Snow! [Fabric]"
+filename = "CreaturesFromTheSnow-2.2.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2e193f58874e32ee2dfc847f2756f70d99d54a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827836
+project-id = 576413
