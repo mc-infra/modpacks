@@ -1865,6 +1865,11 @@ file = "mods/geckolib-fabric-1.18-3.0.42.jar"
 hash = "0faf01a6ab3a8326ebce54feaed0937aa2b4966faa1a3b8578ced09683905f69"
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
+metafile = true
+
+[[files]]
 file = "mods/go-fish.pw.toml"
 hash = "6064b8f1be0463783bcd84d401b52bc2b168fc22b27c706713b1e4dbc4bff679"
 metafile = true
