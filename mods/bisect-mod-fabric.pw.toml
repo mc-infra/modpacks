@@ -1,0 +1,13 @@
+name = "BisectHosting Server Integration Menu [FABRIC]"
+filename = "bhmenu-1.17.1-1.18.2-1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/htH0MEki/versions/1.3/bhmenu-1.17.1-1.18.2-1.3.jar"
+hash-format = "sha1"
+hash = "75c1b67450766198c56b187396e3244cbaf0ccdb"
+
+[update]
+[update.modrinth]
+mod-id = "htH0MEki"
+version = "QrWLdXPq"

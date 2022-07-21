@@ -1,13 +1,13 @@
-name = "Expanded Delight [Fabric]"
-filename = "expandeddelight-0.1.9.jar"
+name = "Expanded Delight"
+filename = "expandeddelight-0.1.8.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/e9V6wFcR/versions/0.1.8.1/expandeddelight-0.1.8.1.jar"
 hash-format = "sha1"
-hash = "7a5676acb4154f1e9bcc24cfb582d5f0c7d89339"
-mode = "metadata:curseforge"
+hash = "e76bd844457a70677055b8e63d64c8228ed73a85"
 
 [update]
-[update.curseforge]
-file-id = 3817053
-project-id = 620770
+[update.modrinth]
+mod-id = "e9V6wFcR"
+version = "rFpL3x6R"

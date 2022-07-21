@@ -1,13 +1,13 @@
 name = "megane"
-filename = "megane-7.7.2.jar"
+filename = "megane-7.8.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/7.8.0/megane-7.8.0.jar"
 hash-format = "sha1"
-hash = "c6d988cb6b7c36f92dd3df25ce15a0794d3d5373"
-mode = "metadata:curseforge"
+hash = "1f61e961b030ec117258c16ea83020bb3118cc61"
 
 [update]
-[update.curseforge]
-file-id = 3838424
-project-id = 408118
+[update.modrinth]
+mod-id = "ZNk5S5U6"
+version = "LsxZ0bY7"
