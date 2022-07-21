@@ -1,0 +1,13 @@
+name = "Multiworld"
+filename = "Multiworld-Fabric-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fgvoNDL1/versions/1.4/Multiworld-Fabric-1.4.jar"
+hash-format = "sha1"
+hash = "30c278f6e5c7b70969453befc425b37900fbf0f7"
+
+[update]
+[update.modrinth]
+mod-id = "fgvoNDL1"
+version = "tgfclfWa"

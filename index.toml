@@ -2064,6 +2064,11 @@ hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
 metafile = true
 
 [[files]]
+file = "mods/multiworld.pw.toml"
+hash = "7f5160f299d1a1e67fb76ddc7135fff289c3accc3b19db7300abead702990a22"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "1ee6fb30ec330b959f8a8034577b0880cd9cf53cd8af988d4233cb69d68e892d"
 metafile = true
@@ -2386,6 +2391,11 @@ metafile = true
 [[files]]
 file = "mods/wolves-with-armor.pw.toml"
 hash = "e70fadd8e4c57788ce1effe837f2db94a2c9ef3f73753f598b16ebd896722150"
+metafile = true
+
+[[files]]
+file = "mods/worldborderfix.pw.toml"
+hash = "e8477dedbcb2beed03d7f10626413e6284a1c468b42cccffa85dff8d8ea985d0"
 metafile = true
 
 [[files]]
