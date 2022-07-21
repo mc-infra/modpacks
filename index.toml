@@ -1529,11 +1529,6 @@ hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
 metafile = true
 
 [[files]]
-file = "mods/chubby-stuff-fabric.pw.toml"
-hash = "a2dce5d7a7ad8f523b5cf9c4b36bec6184c499557ea53cc8e925a6ee22580fba"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
 hash = "0172230f24183bf19e7ebe0da3abad55a4657e95c8fa58fa3142aca82df44d69"
 metafile = true
@@ -1591,16 +1586,6 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "60906ae763074f3a483983e31fc771f69181315740579d69e39f961f1aea4731"
-metafile = true
-
-[[files]]
-file = "mods/creatures-from-the-snow-fabric.pw.toml"
-hash = "9a18767c415a9c131f9601f993043087a21cb286cf09447cce4550cf186e818b"
-metafile = true
-
-[[files]]
-file = "mods/creatures-from-the-warmths-fabric.pw.toml"
-hash = "3485ac899fec809d9b79a1afd66b4c1c37e481838496a11d8f93d2243ecc5c83"
 metafile = true
 
 [[files]]
@@ -1909,11 +1894,6 @@ hash = "2e29234c97bc69e4d6255c779d63f4db93871d1708a38dfe0235dda7b92441db"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers-fabric.pw.toml"
-hash = "0163f98414a145c00920fabcfedb5550e56230cf320346e62ad28b9105f8bb0b"
-metafile = true
-
-[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
 metafile = true
@@ -1921,11 +1901,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "a226f8fd112cc69f1aa70039a657f76060cd8a71b5c6f1e47b282bbf26f35063"
-metafile = true
-
-[[files]]
-file = "mods/impaled.pw.toml"
-hash = "161d67b6f3f3bfc7a0a8ba4f0e13aa24856ce13193870e149f58558da0812dde"
 metafile = true
 
 [[files]]
@@ -2006,11 +1981,6 @@ metafile = true
 [[files]]
 file = "mods/lib.pw.toml"
 hash = "440c3684ef8e18e0787e29db7884acc50f5b02605525d50e9a83b6ea6af8cae6"
-metafile = true
-
-[[files]]
-file = "mods/library-ferret-fabric.pw.toml"
-hash = "9fdb1bc03601713f718165b8463b70fedae8a65cee4c2e539a0fc3c1262ea545"
 metafile = true
 
 [[files]]
@@ -2284,11 +2254,6 @@ hash = "3d28abe6efcc0b909187ffcc9c47686937fc4d4897ed61d7a08f1fc371dbec8f"
 metafile = true
 
 [[files]]
-file = "mods/steves-vanilla-fabric.pw.toml"
-hash = "1148bef4df98743de9ecc5053886f8f17cf823f3efdc3b35535699f1c9a8d739"
-metafile = true
-
-[[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "b1b6ca79f51aee17c4dac0014cae2cc0cccb6647a93c889446c142e6102ba1eb"
 metafile = true
@@ -2426,11 +2391,6 @@ metafile = true
 [[files]]
 file = "mods/wolves-with-armor.pw.toml"
 hash = "e70fadd8e4c57788ce1effe837f2db94a2c9ef3f73753f598b16ebd896722150"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-express-fabric.pw.toml"
-hash = "7eba0dbb7bc26e116397a1f77de509a62494b2f8c52b55f25944f1d2ab088d3f"
 metafile = true
 
 [[files]]
