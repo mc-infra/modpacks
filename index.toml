@@ -2084,11 +2084,6 @@ hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
-metafile = true
-
-[[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "1801c7de5966541cd9256e1b5f76f602eb328583e6f25d2d4b6634e8ceb8174d"
 metafile = true
@@ -2405,7 +2400,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "d662f0e5aae916336830c1dfd1087b664e45676cafc02f7f2d892abf692ebf30"
+hash = "ec19bc9cbab9c6d9885b23508db28abdbde3853077849e4abe9e03de144527de"
 metafile = true
 
 [[files]]
