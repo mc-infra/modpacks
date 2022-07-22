@@ -28,7 +28,7 @@
 #Bookcases hold up to 9 stacks of books, paper and maps.
 "Bookcases Enabled" = true
 #Integration with Bumblezone.
-"BumblezoneIntegration Enabled" = true
+"BumblezoneIntegration Enabled" = false
 #Cave spiders have a chance to drop cobwebs when killed.
 "CaveSpidersDropCobwebs Enabled" = true
 #Experimental! Right-click (with empty hand) on any stairs block to sit down. 

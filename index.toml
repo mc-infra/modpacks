@@ -66,7 +66,7 @@ hash = "20c398f648029ede424360c5e33e582c814a036bbf4c03c769770201bbb0df8c"
 
 [[files]]
 file = "config/charm.toml"
-hash = "10d6cf63f89be39f274a9f1102f7fae9b83aec9a446ee8cd378b9d31a5e94cd2"
+hash = "e3463161b4f4cccdb591141c5112655cd456df89db0ec1f1802f35e4498cea9e"
 
 [[files]]
 file = "config/debugify.json"
@@ -1195,11 +1195,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
-metafile = true
-
-[[files]]
-file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "d6bdc926aada3054901b9aa3c67d507468cffd015f09e1aa89e21e2f23954f74"
 metafile = true
 
 [[files]]
