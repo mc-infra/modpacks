@@ -1,100 +1,314 @@
 hash-format = "sha256"
 
 [[files]]
-file = "client-overrides/config/InventoryHUD/curios.json"
+file = "config/.puzzle_cache/mojangstudios.png"
+hash = "1ba862a28dc0478ca94a0f2bf8689f4b6294ed2886dee3fdf9a10f4029110fa5"
+
+[[files]]
+file = "config/InventoryHUD/curios.json"
 hash = "4b826a017fed64a11651fd23da46753914d51085f53df8ce93aaf7e929c0045e"
 
 [[files]]
-file = "client-overrides/config/bhmenu/bhmenu-client.properties"
+file = "config/VillagerNames/golemNames.json"
+hash = "f1b1f42c091fb24204e07823c2a2303195a56b766e5eb8ae940cb079cfb271d4"
+
+[[files]]
+file = "config/VillagerNames/piglinNames.json"
+hash = "b976657173c610c4ff360af68bb434cfa57de1f9394cabeaffcec4d2e95d8b2f"
+
+[[files]]
+file = "config/VillagerNames/piglinSurnames.json"
+hash = "810a7ea154fc48930a430c222e2106c528ee1f6c867819209ccd3074b6172694"
+
+[[files]]
+file = "config/VillagerNames/sureNames.json"
+hash = "554d61a534df0aacb53b51fe0e6056779d7c26dbaadb727973f62b69013303f9"
+
+[[files]]
+file = "config/VillagerNames/villagerNames.json"
+hash = "ddd9cd91d03c3d964a4c73e6e97f83a84d5ecf1c562b79277affcce1ca32ac54"
+
+[[files]]
+file = "config/VillagerNames/villagerRules.json"
+hash = "4314fb0600dd99c082a381a6fd80d41ad6844b6c26a0c62cec49c66423f8ed8f"
+
+[[files]]
+file = "config/backslot.json5"
+hash = "884fd3fd49b5200b125d409b437723c12c3b892c47057f6c68019ebb04db1dad"
+
+[[files]]
+file = "config/backslotaddon.json5"
+hash = "be8cc9e25e3b576e7a71e6dcc9516ca50a2059529a9e245fc74b0717617941f4"
+
+[[files]]
+file = "config/bcc.json"
+hash = "bebe319f3755d86e13d2a9a8dc974b2ba33fb9a66dd7b0d2a139908aa308fe89"
+
+[[files]]
+file = "config/bclib/biomes.json"
+hash = "f93fbf8c2ae5c95297ceffaff21f564622c0d3912b7fb804c96a479e29f80143"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "bac678d69f4de68da42e49d06b477a6f654e1088df113cb7d494ff720ec3b079"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "1281f2ea418b98be09e3f431d3c8daa9767a2d8aae3e5c88b341c93ad6642c09"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "914d4f46f048b89ad5b5b2cca017548ca7452ba39d5a09a9fc1b6de6b60e7972"
+
+[[files]]
+file = "config/bclib/recipes.json"
+hash = "969381f8c91a3577ab8173f08d36edecabc8c8b46256b4ca8eb22ed3ad7a73c6"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "11736fdc03761560e311fffc7239eaabe660d49b4286589ca3056417258b34a9"
+
+[[files]]
+file = "config/bhmenu/bhmenu-client.properties"
 hash = "59f356bc413ed33068cb450afe13bfd18ce7c57f1b73e3e6d3df9eda1087f5ac"
 
 [[files]]
-file = "client-overrides/config/drippyloadingscreen/config.cfg"
+file = "config/carrier.json"
+hash = "20c398f648029ede424360c5e33e582c814a036bbf4c03c769770201bbb0df8c"
+
+[[files]]
+file = "config/charm.toml"
+hash = "2014087108c109e354ee2dbd30f784c077ae6317522660681063c4efdf0ac3d6"
+
+[[files]]
+file = "config/craftpresence.properties"
+hash = "3a528fd9c756453f30a7fc3e43dfa6974f612fc932818f2d679605bd93289510"
+
+[[files]]
+file = "config/drippyloadingscreen/config.cfg"
 hash = "eb0cc9dd4f40ed36b39acdd875dbdac476051190f68847a532ecb0d935ebf262"
 
 [[files]]
-file = "client-overrides/config/drippyloadingscreen/customization/Loading.dllayout"
+file = "config/drippyloadingscreen/customization/Loading.dllayout"
 hash = "9c7fe952c89f0ed911920eb7b5afc2f3f970eb278a7d4c6d6e25339d4bc408d0"
 
 [[files]]
-file = "client-overrides/config/drippyloadingscreen/locals/en_us.local"
+file = "config/drippyloadingscreen/locals/en_us.local"
 hash = "7562c210c851a1acfb7a34ad4d6733d6be23a9ff7bf5eaebdb2f0da78e60bc0d"
 
 [[files]]
-file = "client-overrides/config/fancymenu/config.txt"
+file = "config/dungeons_arise.json5"
+hash = "417be0a07aa0d5748e1e0d361042bbb6e16294a57fce080a653ec1336daf5eab"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "ef3c787b5f0cde95ea1ca92f204698675db25925b64ad93a15792908ffc8891e"
+
+[[files]]
+file = "config/fancymenu/config.txt"
 hash = "d2d8df22b66878d362d395e8484090463ba88c3c764a8aa6ec166cf496ca0a07"
 
 [[files]]
-file = "client-overrides/config/fancymenu/customizablemenus.txt"
+file = "config/fancymenu/customizablemenus.txt"
 hash = "b641a9875afdb83d8319633bc927bb0e009ac70b0a9c68663e3d7bae8fb10c35"
 
 [[files]]
-file = "client-overrides/config/fancymenu/customization/Main Menu.txt"
+file = "config/fancymenu/customization/Main Menu.txt"
 hash = "4b3cc26ded57a94e77fc34e6c1deb169b33a802120a3bb52b541f5bfb85f97f6"
 
 [[files]]
-file = "client-overrides/config/fancymenu/customization/Menu.txt"
+file = "config/fancymenu/customization/Menu.txt"
 hash = "b154337cb54d425f4f2fab3c71e43595562b0c131f0fb5e33c664af6d4d01626"
 
 [[files]]
-file = "client-overrides/config/fancymenu/locals/de_de.local"
+file = "config/fancymenu/locals/de_de.local"
 hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
 
 [[files]]
-file = "client-overrides/config/fancymenu/locals/en_us.local"
+file = "config/fancymenu/locals/en_us.local"
 hash = "01b9e0b0b0332e282798041e16badf6804bec9b46edcd279a5c6d9110ae31ffe"
 
 [[files]]
-file = "client-overrides/config/fancymenu/locals/pl_pl.local"
+file = "config/fancymenu/locals/pl_pl.local"
 hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
 
 [[files]]
-file = "client-overrides/config/fancymenu/locals/pt_br.local"
+file = "config/fancymenu/locals/pt_br.local"
 hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
 
 [[files]]
-file = "client-overrides/config/fancymenu/locals/zh_cn.local"
+file = "config/fancymenu/locals/zh_cn.local"
 hash = "b9c3dfadba74762bfea5837060ca5bfb4dfd3b1fbcd65fb6c0d190df4ec611d6"
 
 [[files]]
-file = "client-overrides/config/fancymenu/menu_identifiers.db"
+file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
-file = "client-overrides/config/fancymenu/slideshows/bettermcslideshow/images/image_1.png"
+file = "config/fancymenu/slideshows/bettermcslideshow/images/image_1.png"
 hash = "0eedc38a5852222d89e1b8c4d9b985182b10c49472c89296ca537732d1f74b8b"
 
 [[files]]
-file = "client-overrides/config/fancymenu/slideshows/bettermcslideshow/images/image_2.png"
+file = "config/fancymenu/slideshows/bettermcslideshow/images/image_2.png"
 hash = "21ee23dcf235b69e84d5e71e94782ac54bf2622864989e13edaa46abc25418d5"
 
 [[files]]
-file = "client-overrides/config/fancymenu/slideshows/bettermcslideshow/images/image_3.png"
+file = "config/fancymenu/slideshows/bettermcslideshow/images/image_3.png"
 hash = "fbd3e8b0e6d1daafddff633867d6f238f1d5402dba251018e56f058e2399a9ad"
 
 [[files]]
-file = "client-overrides/config/fancymenu/slideshows/bettermcslideshow/images/image_4.png"
+file = "config/fancymenu/slideshows/bettermcslideshow/images/image_4.png"
 hash = "fb331959c302e16cd56823717fcdf663b88291da824fc3b25bae6bbf005fd6cd"
 
 [[files]]
-file = "client-overrides/config/fancymenu/slideshows/bettermcslideshow/images/image_5.png"
+file = "config/fancymenu/slideshows/bettermcslideshow/images/image_5.png"
 hash = "3369c2f4b7f40a486c433d592bb007c4f7f6eba2d82e797cf71291c9d64f0aa1"
 
 [[files]]
-file = "client-overrides/config/fancymenu/slideshows/bettermcslideshow/images/image_6.png"
+file = "config/fancymenu/slideshows/bettermcslideshow/images/image_6.png"
 hash = "783fa39ad0074c1aa116b7a94bbb720f7177f31343d77a996277efc39cd4f627"
 
 [[files]]
-file = "client-overrides/config/fancymenu/slideshows/bettermcslideshow/properties.txt"
+file = "config/fancymenu/slideshows/bettermcslideshow/properties.txt"
 hash = "e68c27cc8616701fd8b27721ba48c439662864dac315b1f67279f0c51c209778"
 
 [[files]]
-file = "client-overrides/config/inventoryhud.json"
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/eden_ring.snbt"
+hash = "d14bc3982236467784f1bb11a2cbbe6efc19f89c804ee69fb5f3669693e42182"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/overworld.snbt"
+hash = "7f701ef2e458d9d0a2815baa4f860837af21a2779ffde9073f12b2c4c5febd21"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_aether.snbt"
+hash = "fad8651847db96abf55b2df4d1b86b51facd40e1c3aac782750fb4212e09f631"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_end.snbt"
+hash = "f0fe5176a9615a4b958d952d0969b25c984a661910c36255fb42e81b9da2cd2e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_nether.snbt"
+hash = "3c0d954de3b9d23e4f4af11079a3f3f051c51dc7712d8d31c8576db51b7fba2a"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "f15e3a22f9e4ddccb33ef36bf1ce2f2674a24254e57b708570a3c407046b6147"
+
+[[files]]
+file = "config/illuminations.properties"
+hash = "832aa24a2d878fa383e5ca0d715f58217867945b898ed41e1abedd9b63226301"
+
+[[files]]
+file = "config/inventoryhud.json"
 hash = "8a0a4ac83363c37419d46fd4f2fe24137d71b4ced563c35018b0747dec140847"
 
 [[files]]
-file = "client-overrides/options.txt"
-hash = "a1a9113e805a61e2b02fff7259224c0323c8a72b68d9e8293725e0bca8502500"
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "48b24ced2c31a20022126d83f7e8eb51be592a7d7fab611bd7727ef5300a3a44"
+
+[[files]]
+file = "config/loadmyresources/config.cfg"
+hash = "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
+hash = "b683a4a1af4ed653c891fca46bd8e89b44ac81dcb3c5ecc94fb9a634c16bb4d2"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-more-villagers-datapack.pw.toml"
+hash = "82966b766356961d0685468946ccddbb3e6ff2f9bbe764ea5755a1a3a84239ab"
+metafile = true
+
+[[files]]
+file = "config/sentimentality3.json"
+hash = "baec436d94611c77cb59c702b02864d6443273f2c521e7e30ed96491c133c6ab"
+
+[[files]]
+file = "config/simple-rpc.toml"
+hash = "d9bb6c2fdabd1da66caefde6f7be65b20858f1e4ffbf63d9630737afb01de627"
+
+[[files]]
+file = "config/snowrealmagic-common.toml"
+hash = "860b54b1f908dcd97d68e015646b8bcd3ce7ab0e50a1ee07a9fa399d1ddcd236"
+
+[[files]]
+file = "config/starterkit/starterkit-old.txt"
+hash = "2863ecc963d0153cdd3734ec46fe9f7ec2d6ccec575fe345fc061cfa5fa28045"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "3520ac61dbd78042164c57359788bfc5c3ed0738d7b36187f56f803b2742b9f0"
+
+[[files]]
+file = "config/the-graveyard-config.json5"
+hash = "00cb774e77174e1cf16c9754eb148358f8c99332bca361c2feb32aa31525f8e3"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/megane.json"
+hash = "8f1cfbe7ab97bd806e993ed568ae857fbdbb25fc0ab5090327042190bf63259c"
+
+[[files]]
+file = "config/waila/megane_modules.json"
+hash = "81b7f935554af79139783fdaa6cd72a6433093724a9c78b0bfa62e6afe3b0d72"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "edf0421dee718840523e70ce04cd1513670838fb03d89514c5b800787f850624"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "c59e56099a0ace24113aa7756b46f58fcb43024d915179c064c93a0c197df33a"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "cc3c34588802bb95c788d69a03da2c519c5af9ffd54bae38daa9eba9ba91b78f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "ac9f21663ff17f8197054c8a6cfc538efd16eb1fc60703bbca935ac2b57853d1"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "10ea7993911c67c84f249ec07696595882a00c8cfc469ee5bfafc9ac5db24e9a"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "3daed2fb60dac84a89a9ede2de0eae99d76fbbae7b5b99398d17e8c1690e9938"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1282,220 +1496,6 @@ hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
 
 [[files]]
-file = "overrides/config/VillagerNames/golemNames.json"
-hash = "f1b1f42c091fb24204e07823c2a2303195a56b766e5eb8ae940cb079cfb271d4"
-
-[[files]]
-file = "overrides/config/VillagerNames/piglinNames.json"
-hash = "b976657173c610c4ff360af68bb434cfa57de1f9394cabeaffcec4d2e95d8b2f"
-
-[[files]]
-file = "overrides/config/VillagerNames/piglinSurnames.json"
-hash = "810a7ea154fc48930a430c222e2106c528ee1f6c867819209ccd3074b6172694"
-
-[[files]]
-file = "overrides/config/VillagerNames/sureNames.json"
-hash = "554d61a534df0aacb53b51fe0e6056779d7c26dbaadb727973f62b69013303f9"
-
-[[files]]
-file = "overrides/config/VillagerNames/villagerNames.json"
-hash = "ddd9cd91d03c3d964a4c73e6e97f83a84d5ecf1c562b79277affcce1ca32ac54"
-
-[[files]]
-file = "overrides/config/VillagerNames/villagerRules.json"
-hash = "4314fb0600dd99c082a381a6fd80d41ad6844b6c26a0c62cec49c66423f8ed8f"
-
-[[files]]
-file = "overrides/config/backslot.json5"
-hash = "884fd3fd49b5200b125d409b437723c12c3b892c47057f6c68019ebb04db1dad"
-
-[[files]]
-file = "overrides/config/backslotaddon.json5"
-hash = "be8cc9e25e3b576e7a71e6dcc9516ca50a2059529a9e245fc74b0717617941f4"
-
-[[files]]
-file = "overrides/config/bcc.json"
-hash = "bebe319f3755d86e13d2a9a8dc974b2ba33fb9a66dd7b0d2a139908aa308fe89"
-
-[[files]]
-file = "overrides/config/bclib/biomes.json"
-hash = "f93fbf8c2ae5c95297ceffaff21f564622c0d3912b7fb804c96a479e29f80143"
-
-[[files]]
-file = "overrides/config/bclib/client.json"
-hash = "bac678d69f4de68da42e49d06b477a6f654e1088df113cb7d494ff720ec3b079"
-
-[[files]]
-file = "overrides/config/bclib/generator.json"
-hash = "1281f2ea418b98be09e3f431d3c8daa9767a2d8aae3e5c88b341c93ad6642c09"
-
-[[files]]
-file = "overrides/config/bclib/main.json"
-hash = "914d4f46f048b89ad5b5b2cca017548ca7452ba39d5a09a9fc1b6de6b60e7972"
-
-[[files]]
-file = "overrides/config/bclib/recipes.json"
-hash = "969381f8c91a3577ab8173f08d36edecabc8c8b46256b4ca8eb22ed3ad7a73c6"
-
-[[files]]
-file = "overrides/config/bclib/server.json"
-hash = "11736fdc03761560e311fffc7239eaabe660d49b4286589ca3056417258b34a9"
-
-[[files]]
-file = "overrides/config/carrier.json"
-hash = "20c398f648029ede424360c5e33e582c814a036bbf4c03c769770201bbb0df8c"
-
-[[files]]
-file = "overrides/config/charm.toml"
-hash = "2014087108c109e354ee2dbd30f784c077ae6317522660681063c4efdf0ac3d6"
-
-[[files]]
-file = "overrides/config/craftpresence.properties"
-hash = "3a528fd9c756453f30a7fc3e43dfa6974f612fc932818f2d679605bd93289510"
-
-[[files]]
-file = "overrides/config/dungeons_arise.json5"
-hash = "417be0a07aa0d5748e1e0d361042bbb6e16294a57fce080a653ec1336daf5eab"
-
-[[files]]
-file = "overrides/config/fabric_loader_dependencies.json"
-hash = "ef3c787b5f0cde95ea1ca92f204698675db25925b64ad93a15792908ffc8891e"
-
-[[files]]
-file = "overrides/config/ftbquests/quests/chapter_groups.snbt"
-hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
-
-[[files]]
-file = "overrides/config/ftbquests/quests/chapters/eden_ring.snbt"
-hash = "d14bc3982236467784f1bb11a2cbbe6efc19f89c804ee69fb5f3669693e42182"
-
-[[files]]
-file = "overrides/config/ftbquests/quests/chapters/overworld.snbt"
-hash = "7f701ef2e458d9d0a2815baa4f860837af21a2779ffde9073f12b2c4c5febd21"
-
-[[files]]
-file = "overrides/config/ftbquests/quests/chapters/the_aether.snbt"
-hash = "fad8651847db96abf55b2df4d1b86b51facd40e1c3aac782750fb4212e09f631"
-
-[[files]]
-file = "overrides/config/ftbquests/quests/chapters/the_end.snbt"
-hash = "f0fe5176a9615a4b958d952d0969b25c984a661910c36255fb42e81b9da2cd2e"
-
-[[files]]
-file = "overrides/config/ftbquests/quests/chapters/the_nether.snbt"
-hash = "3c0d954de3b9d23e4f4af11079a3f3f051c51dc7712d8d31c8576db51b7fba2a"
-
-[[files]]
-file = "overrides/config/ftbquests/quests/data.snbt"
-hash = "f15e3a22f9e4ddccb33ef36bf1ce2f2674a24254e57b708570a3c407046b6147"
-
-[[files]]
-file = "overrides/config/illuminations.properties"
-hash = "832aa24a2d878fa383e5ca0d715f58217867945b898ed41e1abedd9b63226301"
-
-[[files]]
-file = "overrides/config/konkrete/locals/de_de.local"
-hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
-
-[[files]]
-file = "overrides/config/konkrete/locals/en_us.local"
-hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
-
-[[files]]
-file = "overrides/config/konkrete/locals/pl_pl.local"
-hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
-
-[[files]]
-file = "overrides/config/konkrete/locals/pt_br.local"
-hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
-
-[[files]]
-file = "overrides/config/lambdynlights.toml"
-hash = "48b24ced2c31a20022126d83f7e8eb51be592a7d7fab611bd7727ef5300a3a44"
-
-[[files]]
-file = "overrides/config/loadmyresources/config.cfg"
-hash = "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5"
-
-[[files]]
-file = "overrides/config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "overrides/config/paxi/datapacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
-hash = "b683a4a1af4ed653c891fca46bd8e89b44ac81dcb3c5ecc94fb9a634c16bb4d2"
-metafile = true
-
-[[files]]
-file = "overrides/config/paxi/datapacks/repurposed-structures-more-villagers-datapack.pw.toml"
-hash = "82966b766356961d0685468946ccddbb3e6ff2f9bbe764ea5755a1a3a84239ab"
-metafile = true
-
-[[files]]
-file = "overrides/config/sentimentality3.json"
-hash = "baec436d94611c77cb59c702b02864d6443273f2c521e7e30ed96491c133c6ab"
-
-[[files]]
-file = "overrides/config/simple-rpc.toml"
-hash = "d9bb6c2fdabd1da66caefde6f7be65b20858f1e4ffbf63d9630737afb01de627"
-
-[[files]]
-file = "overrides/config/snowrealmagic-common.toml"
-hash = "860b54b1f908dcd97d68e015646b8bcd3ce7ab0e50a1ee07a9fa399d1ddcd236"
-
-[[files]]
-file = "overrides/config/starterkit/starterkit-old.txt"
-hash = "2863ecc963d0153cdd3734ec46fe9f7ec2d6ccec575fe345fc061cfa5fa28045"
-
-[[files]]
-file = "overrides/config/starterkit/starterkit.txt"
-hash = "3520ac61dbd78042164c57359788bfc5c3ed0738d7b36187f56f803b2742b9f0"
-
-[[files]]
-file = "overrides/config/the-graveyard-config.json5"
-hash = "00cb774e77174e1cf16c9754eb148358f8c99332bca361c2feb32aa31525f8e3"
-
-[[files]]
-file = "overrides/config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
-
-[[files]]
-file = "overrides/config/waila/megane.json"
-hash = "8f1cfbe7ab97bd806e993ed568ae857fbdbb25fc0ab5090327042190bf63259c"
-
-[[files]]
-file = "overrides/config/waila/megane_modules.json"
-hash = "81b7f935554af79139783fdaa6cd72a6433093724a9c78b0bfa62e6afe3b0d72"
-
-[[files]]
-file = "overrides/config/waila/waila.json"
-hash = "edf0421dee718840523e70ce04cd1513670838fb03d89514c5b800787f850624"
-
-[[files]]
-file = "overrides/config/waila/waila_plugins.json"
-hash = "c59e56099a0ace24113aa7756b46f58fcb43024d915179c064c93a0c197df33a"
-
-[[files]]
-file = "overrides/config/waystones/config.json"
-hash = "cc3c34588802bb95c788d69a03da2c519c5af9ffd54bae38daa9eba9ba91b78f"
-
-[[files]]
-file = "overrides/config/xaerominimap.txt"
-hash = "ac9f21663ff17f8197054c8a6cfc538efd16eb1fc60703bbca935ac2b57853d1"
-
-[[files]]
-file = "overrides/config/xaerominimap_entities.json"
-hash = "10ea7993911c67c84f249ec07696595882a00c8cfc469ee5bfafc9ac5db24e9a"
-
-[[files]]
-file = "overrides/config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
-
-[[files]]
-file = "overrides/config/xaeroworldmap.txt"
-hash = "3daed2fb60dac84a89a9ede2de0eae99d76fbbae7b5b99398d17e8c1690e9938"
-
-[[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "0f7a8ef62b305f6f1d79f0f245d27a469ff67d028f165dec2e91cc1ec3de76d2"
 metafile = true
@@ -1514,7 +1514,3 @@ metafile = true
 file = "resourcepacks/xaeros-minimap-modded-support.pw.toml"
 hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
 metafile = true
-
-[[files]]
-file = "server-overrides/config/.puzzle_cache/mojangstudios.png"
-hash = "1ba862a28dc0478ca94a0f2bf8689f4b6294ed2886dee3fdf9a10f4029110fa5"
