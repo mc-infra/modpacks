@@ -1,0 +1,1 @@
+Get-ChildItem -path mods -filter *.pw.toml | ForEach-Object { Write-Output $_.BaseName.Split('.')[0]; packwiz mr add $_.BaseName.Split('.')[0] }

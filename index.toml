@@ -2484,6 +2484,16 @@ hash = "879a03848cf929ce507bc9fe1bf992597ecdc1880d2ff940f5bae68096f67e49"
 metafile = true
 
 [[files]]
+file = "overrides/config/paxi/datapacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
+hash = "b683a4a1af4ed653c891fca46bd8e89b44ac81dcb3c5ecc94fb9a634c16bb4d2"
+metafile = true
+
+[[files]]
+file = "overrides/config/paxi/datapacks/repurposed-structures-more-villagers-datapack.pw.toml"
+hash = "82966b766356961d0685468946ccddbb3e6ff2f9bbe764ea5755a1a3a84239ab"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "f09cd5f1b0d71c8e70be3e00b6091de249d5a50f5c5a40b463fddaea504516cc"
 metafile = true
