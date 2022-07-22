@@ -922,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/huge-structure-blocks.pw.toml"
-hash = "cdf95e227083b15739cbef5632ad685cdbf791e08a37dc8c63c3d0cab9f785d1"
+hash = "c6f775939c1dc785742b1bf74db09e912e2f4ffb80e8042949c8cf1721349019"
 metafile = true
 
 [[files]]
