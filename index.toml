@@ -1589,6 +1589,11 @@ hash = "60906ae763074f3a483983e31fc771f69181315740579d69e39f961f1aea4731"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "485b6f976217cc14dc0f3c6f01797daa400446acc0bbacb60c0de018acc5b17c"
 metafile = true
