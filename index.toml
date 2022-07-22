@@ -853,6 +853,11 @@ hash = "aee7558e470145eccf477ad75653398c0d5d39b15a3d5f051b94e6dcdd6e6e8d"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "ef1233ba89ceb429284c9abab0380fed30ef5cbb12a9e45a92978db84a2bac4c"
+metafile = true
+
+[[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "fef1e72c1bc49f2fb019b62316b664fb4e216c0a3c65c2517856d1e0fd522c34"
 metafile = true
