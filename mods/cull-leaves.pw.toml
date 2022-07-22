@@ -11,3 +11,8 @@ hash = "9bc9c61f0a7dc6c765118a0527850b91847608cb"
 [update.modrinth]
 mod-id = "GNxdLCoP"
 version = "718Klypf"
+
+[option]
+optional = true
+default = true
+description = "Adds culling to leaf blocks, providing a huge performance boost over vanilla."
