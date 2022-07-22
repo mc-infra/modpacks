@@ -921,6 +921,11 @@ hash = "2e29234c97bc69e4d6255c779d63f4db93871d1708a38dfe0235dda7b92441db"
 metafile = true
 
 [[files]]
+file = "mods/huge-structure-blocks.pw.toml"
+hash = "cdf95e227083b15739cbef5632ad685cdbf791e08a37dc8c63c3d0cab9f785d1"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
 metafile = true
