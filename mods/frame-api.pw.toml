@@ -1,13 +1,13 @@
 name = "🔨 Frame API"
-filename = "frame-fabric-0.22.2+1.19.jar"
+filename = "frame-fabric-0.23.1+1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cff9ad3e04cd72a79ddb4bc615b7e3bbf44b5ce3"
+hash = "af37e7be3545599f56f24a0ef4994ad17843e80b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3866248
+file-id = 3882479
 project-id = 580137
