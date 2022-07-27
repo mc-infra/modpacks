@@ -1,0 +1,13 @@
+name = "Wild Tool Access"
+filename = "Wild_Tool_Access-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YILwj7iC/versions/1.18.2-1.0.1/Wild_Tool_Access-1.18.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "c9d5c4b20c7c7259c093d9fd4da3c11cc90bdb10"
+
+[update]
+[update.modrinth]
+mod-id = "YILwj7iC"
+version = "GvZssCA0"

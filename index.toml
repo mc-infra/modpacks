@@ -1446,6 +1446,11 @@ hash = "ec19bc9cbab9c6d9885b23508db28abdbde3853077849e4abe9e03de144527de"
 metafile = true
 
 [[files]]
+file = "mods/wta.pw.toml"
+hash = "bb2697909c223207b14749085ab96e23af76bd700e00d6d3d311c8b2b302797d"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
 metafile = true
