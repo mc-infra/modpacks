@@ -73,6 +73,10 @@ file = "config/bhmenu/bhmenu-client.properties"
 hash = "59f356bc413ed33068cb450afe13bfd18ce7c57f1b73e3e6d3df9eda1087f5ac"
 
 [[files]]
+file = "config/byg/backups/last_working_configs_backup.zip"
+hash = "f750776961bd858130403522e1fa9cfb94a3b1a81564d28778593ae90ca95feb"
+
+[[files]]
 file = "config/carrier.json"
 hash = "20c398f648029ede424360c5e33e582c814a036bbf4c03c769770201bbb0df8c"
 
@@ -713,11 +717,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-trinket-fabric.pw.toml"
 hash = "193afa0b2357a94bef4483204eb18f61561e6f6976aadf4737d522517b7c0bc6"
-metafile = true
-
-[[files]]
-file = "mods/emerald-geodes.pw.toml"
-hash = "7b281914f3824946786ca9c0eb5fa36a0f10eacb765faf618eb9830907861627"
 metafile = true
 
 [[files]]
