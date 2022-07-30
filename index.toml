@@ -620,6 +620,11 @@ hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
 metafile = true
 
 [[files]]
+file = "mods/createplus.pw.toml"
+hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "485b6f976217cc14dc0f3c6f01797daa400446acc0bbacb60c0de018acc5b17c"
 metafile = true
@@ -1427,21 +1432,6 @@ metafile = true
 [[files]]
 file = "mods/worldborderfix.pw.toml"
 hash = "e8477dedbcb2beed03d7f10626413e6284a1c468b42cccffa85dff8d8ea985d0"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-items.pw.toml"
-hash = "842a35e602e4171feaee8db1958fd05055c7f4483e71822b7bc2267203d02018"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
-hash = "ec19bc9cbab9c6d9885b23508db28abdbde3853077849e4abe9e03de144527de"
 metafile = true
 
 [[files]]
