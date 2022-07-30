@@ -398,6 +398,11 @@ hash = "205cc29cc945930ca5755f73e9c5c8fde0750b30bde54597bff2c31740d80542"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "5b3cd609fddcaa858b5fab569c022c5a0e9030e22f44867aaa3cd4cfc1c776da"
+metafile = true
+
+[[files]]
 file = "mods/auudio-fabric.pw.toml"
 hash = "73cd8b02a3f887549828eb0e72160af9eadd629382fb463c4b048441211d8877"
 metafile = true
