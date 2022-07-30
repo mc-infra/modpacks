@@ -106,7 +106,7 @@ hash = "b641a9875afdb83d8319633bc927bb0e009ac70b0a9c68663e3d7bae8fb10c35"
 
 [[files]]
 file = "config/fancymenu/customization/Main Menu.txt"
-hash = "7e50057468ed85e5b55a61f5e60e180b21eb79a3239f7dc4f93c09f181a026b3"
+hash = "3dbfb9cf221d2c244ebe90f4c9cdcb89f347a996f26e102ef8d3798220353695"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
@@ -302,6 +302,10 @@ hash = "e6a503d95dad7e712790bd7b77540880f160d54e0b88fa4f8d7e5f4389a41c6a"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "3daed2fb60dac84a89a9ede2de0eae99d76fbbae7b5b99398d17e8c1690e9938"
+
+[[files]]
+file = "logo.png"
+hash = "4e66b90d33bb42cb6ec81d77f72e33450b2450b1ada686353caaf21e3c052200"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1069,11 +1073,6 @@ hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
 metafile = true
 
 [[files]]
-file = "mods/multiworld.pw.toml"
-hash = "7f5160f299d1a1e67fb76ddc7135fff289c3accc3b19db7300abead702990a22"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "1ee6fb30ec330b959f8a8034577b0880cd9cf53cd8af988d4233cb69d68e892d"
 metafile = true
@@ -1386,21 +1385,6 @@ metafile = true
 [[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "856834ed07cfc7bc3ef8318397a08ca04bd45eae50f952a66e797a80e9559f66"
-metafile = true
-
-[[files]]
-file = "mods/windchimes.pw.toml"
-hash = "9c43e2729f64ac838434d547c4a33d50b16b4c13c6365658a4408a37a32d10eb"
-metafile = true
-
-[[files]]
-file = "mods/wolves-with-armor.pw.toml"
-hash = "e70fadd8e4c57788ce1effe837f2db94a2c9ef3f73753f598b16ebd896722150"
-metafile = true
-
-[[files]]
-file = "mods/worldborderfix.pw.toml"
-hash = "e8477dedbcb2beed03d7f10626413e6284a1c468b42cccffa85dff8d8ea985d0"
 metafile = true
 
 [[files]]

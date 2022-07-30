@@ -103,7 +103,7 @@ customization {
 }
 
 customization {
-  path = resourcepacks/Graphics/logo.png
+  path = logo.png
   orientation = mid-centered
   x = -110
   width = 221
@@ -111,17 +111,6 @@ customization {
   actionid = eaabe246-3dfb-4207-a12c-5bb594d9b9df1638450597372
   y = -132
   height = 100
-}
-
-customization {
-  path = resourcepacks/Graphics/discord.png
-  orientation = mid-centered
-  x = -121
-  width = 14
-  action = addtexture
-  actionid = 10f39800-b951-4b18-9c0d-1f68714c03971638450613884
-  y = 20
-  height = 15
 }
 
 customization {
@@ -134,27 +123,3 @@ customization {
   y = 21
   height = 14
 }
-
-customization {
-  path = resourcepacks/Graphics/exit.png
-  orientation = mid-centered
-  x = 105
-  width = 18
-  action = addtexture
-  actionid = 0e690c7a-0ba3-424b-8afd-5564549caac81638450684907
-  y = 54
-  height = 18
-}
-
-customization {
-  orientation = bottom-left
-  shadow = true
-  x = 2
-  actionid = 00b6034c-a370-467a-83ef-331882c06c271643083266168
-  action = addtext
-  y = -11
-  scale = 1.0
-  alignment = left
-  value = Created by Sharkie
-}
-
