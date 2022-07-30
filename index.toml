@@ -1248,6 +1248,11 @@ hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/sort.pw.toml"
+hash = "0c957577f742696f71849a062182ca5e1f212f4a0b01e15e83d1fccd4b6a391d"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
 metafile = true
