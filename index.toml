@@ -551,13 +551,8 @@ hash = "42b1a37836d766d5739972bf4986383aab55de1c51ad9eafd4edd0e4f81c501e"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
-hash = "0172230f24183bf19e7ebe0da3abad55a4657e95c8fa58fa3142aca82df44d69"
+hash = "dc1e6e480a546e471071cf1acfb0e239caa9a3b5ed58336657dfca8692602769"
 metafile = true
 
 [[files]]
