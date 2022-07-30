@@ -285,7 +285,7 @@ hash = "c59e56099a0ace24113aa7756b46f58fcb43024d915179c064c93a0c197df33a"
 
 [[files]]
 file = "config/waystones/config.json"
-hash = "cc3c34588802bb95c788d69a03da2c519c5af9ffd54bae38daa9eba9ba91b78f"
+hash = "451b8d112f785cf96efef08bb4a5ad9f1442fac2405a5687c8c590b1fdbca89b"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -297,7 +297,7 @@ hash = "10ea7993911c67c84f249ec07696595882a00c8cfc469ee5bfafc9ac5db24e9a"
 
 [[files]]
 file = "config/xaeropatreon.txt"
-hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+hash = "e6a503d95dad7e712790bd7b77540880f160d54e0b88fa4f8d7e5f4389a41c6a"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -461,11 +461,6 @@ metafile = true
 [[files]]
 file = "mods/biomeinfo-fabric.pw.toml"
 hash = "0f77f42e94a8cf24d5eec938ca6c0d0028a31d6a1673711fa4b25aadfa6e2608"
-metafile = true
-
-[[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "199dcfab78b4278c0c51c64fab21c282b162cdd6d9d44071ad3e616a0a38b2da"
 metafile = true
 
 [[files]]
@@ -999,6 +994,16 @@ hash = "5a388cb0190c991014b8ce1dad5af6811dba304a2d65d88af587d128c1f592bc"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "5ba9b8d7cc67b41a8a58f5348dee264431c507f6548b39f25e01d9576be31855"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "ebbb66ec2c5d8ec1cbccccc9d93ed170409a0f4abaefda5dac0b921159ce5dac"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch-fabric.pw.toml"
 hash = "a471f5bfb41967d11685a706851f6bb907fb9d847a00f4cca87e67ff131b4cfe"
 metafile = true
@@ -1086,6 +1091,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
 
 [[files]]
@@ -1454,13 +1464,8 @@ hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
 
 [[files]]
-file = "resourcepacks/motschens-better-leaves.pw.toml"
-hash = "0f7a8ef62b305f6f1d79f0f245d27a469ff67d028f165dec2e91cc1ec3de76d2"
-metafile = true
-
-[[files]]
 file = "resourcepacks/project-432421.pw.toml"
-hash = "879a03848cf929ce507bc9fe1bf992597ecdc1880d2ff940f5bae68096f67e49"
+hash = "5e57430b9ded32503017ab0f0b9468e21661f64cc8e26c9cc293e52fba93b2d6"
 metafile = true
 
 [[files]]
