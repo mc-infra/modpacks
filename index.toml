@@ -251,6 +251,11 @@ hash = "82966b766356961d0685468946ccddbb3e6ff2f9bbe764ea5755a1a3a84239ab"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/towers-of-the-wild-reworked-datapack.pw.toml"
+hash = "4314aeddccd6ca158123ed73067868f537a6b0ef89f9acee09b3e6ad81475317"
+metafile = true
+
+[[files]]
 file = "config/sentimentality3.json"
 hash = "baec436d94611c77cb59c702b02864d6443273f2c521e7e30ed96491c133c6ab"
 
