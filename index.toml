@@ -101,10 +101,6 @@ file = "config/dungeons_arise.json5"
 hash = "417be0a07aa0d5748e1e0d361042bbb6e16294a57fce080a653ec1336daf5eab"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "50ecb6ae24d6551e9291dd4d2afecc273aaa95949feb9b493f7463490ae23d1a"
-
-[[files]]
 file = "config/fancymenu/config.txt"
 hash = "d2d8df22b66878d362d395e8484090463ba88c3c764a8aa6ec166cf496ca0a07"
 
@@ -586,11 +582,6 @@ hash = "89a198dfecd72beb0d9b599d14188650d503780b6883b4a2c304251105d7a870"
 metafile = true
 
 [[files]]
-file = "mods/consistencyplus.pw.toml"
-hash = "9f6e91210d4f90007541000ff482119f9b228d318e0d2eb0234cfcb38b53a81f"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
 metafile = true
@@ -918,11 +909,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
-metafile = true
-
-[[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "a226f8fd112cc69f1aa70039a657f76060cd8a71b5c6f1e47b282bbf26f35063"
 metafile = true
 
 [[files]]
