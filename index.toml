@@ -477,16 +477,6 @@ hash = "199dcfab78b4278c0c51c64fab21c282b162cdd6d9d44071ad3e616a0a38b2da"
 metafile = true
 
 [[files]]
-file = "mods/bisect-mod-fabric.pw.toml"
-hash = "246a95c730373b3f58a478c81620c74c5a9224fd00d6c6cefa7a3cbb9237b59e"
-metafile = true
-
-[[files]]
-file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "42c2685b2745894974da1027b03c427a74c6fbed04b21f07e1c0c2f49eabcc37"
-metafile = true
-
-[[files]]
 file = "mods/blockus.pw.toml"
 hash = "9670c25141c3756c8a5b1c51560921279d1bb66122ffb7a6c2a18009c94ab8da"
 metafile = true
