@@ -369,10 +369,6 @@ mode = "fast"
 			[light_sources.settings.entities.kibe]
 				thrown_torch = true
 
-			[light_sources.settings.entities.goblintraders]
-				vein_goblin_trader = true
-				goblin_trader = true
-
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
 				firefly = true

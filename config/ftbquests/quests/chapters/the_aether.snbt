@@ -20,17 +20,6 @@
 		}]
 		rewards: [
 			{
-				id: "42AE1C294E1889F0"
-				type: "item"
-				item: {
-					id: "endgoblintraders:durability_totem"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}
-			{
 				id: "64861B6CE804F260"
 				type: "xp"
 				xp: 100

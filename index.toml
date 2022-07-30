@@ -73,10 +73,6 @@ file = "config/bhmenu/bhmenu-client.properties"
 hash = "59f356bc413ed33068cb450afe13bfd18ce7c57f1b73e3e6d3df9eda1087f5ac"
 
 [[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "f750776961bd858130403522e1fa9cfb94a3b1a81564d28778593ae90ca95feb"
-
-[[files]]
 file = "config/carrier.json"
 hash = "20c398f648029ede424360c5e33e582c814a036bbf4c03c769770201bbb0df8c"
 
@@ -106,7 +102,7 @@ hash = "417be0a07aa0d5748e1e0d361042bbb6e16294a57fce080a653ec1336daf5eab"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ef3c787b5f0cde95ea1ca92f204698675db25925b64ad93a15792908ffc8891e"
+hash = "50ecb6ae24d6551e9291dd4d2afecc273aaa95949feb9b493f7463490ae23d1a"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -190,7 +186,7 @@ hash = "7f701ef2e458d9d0a2815baa4f860837af21a2779ffde9073f12b2c4c5febd21"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_aether.snbt"
-hash = "fad8651847db96abf55b2df4d1b86b51facd40e1c3aac782750fb4212e09f631"
+hash = "9265baeef3efe8850ff3ea9d8fbeb5922f903d504543bce9654ace26994b4f96"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_end.snbt"
@@ -230,7 +226,7 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "48b24ced2c31a20022126d83f7e8eb51be592a7d7fab611bd7727ef5300a3a44"
+hash = "62b8de0ba16fde1e96f46928595189efe84f067854ae307624ce73d9ebbb1581"
 
 [[files]]
 file = "config/loadmyresources/config.cfg"
@@ -740,11 +736,6 @@ hash = "53cc88375b73e35a92ac6adde1a31f14e387950ba87aa2a0fbd04bc73ca7c32d"
 metafile = true
 
 [[files]]
-file = "mods/end-goblin-traders-fabric.pw.toml"
-hash = "57e12d65ef6078aa9e016e895a6ab98d189e18075ec3466a95d4a30c6a1999b4"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "0ad7e183c4b803999a0f45b67a63c32e6638a3f1b33e8a659ad0ca08651caecd"
 metafile = true
@@ -912,11 +903,6 @@ metafile = true
 [[files]]
 file = "mods/go-fish.pw.toml"
 hash = "6064b8f1be0463783bcd84d401b52bc2b168fc22b27c706713b1e4dbc4bff679"
-metafile = true
-
-[[files]]
-file = "mods/goblin-traders-fabric.pw.toml"
-hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
 metafile = true
 
 [[files]]
@@ -1330,13 +1316,8 @@ hash = "0f554506f1631e8079ddacfbf2ec0e677cc0660e1fbe9df9a4280837fc60b106"
 metafile = true
 
 [[files]]
-file = "mods/thonkutil.pw.toml"
-hash = "d227749ef001a75ad588e4f59edf1f4a97e537458bdefb414331c31c0a437d0b"
-metafile = true
-
-[[files]]
 file = "mods/tip-the-gui.pw.toml"
-hash = "1cb64fbb3d970383eae6ee32c3d504b7c3457d8330699c5f82ed29e8f42ace96"
+hash = "533dab2272f898c0ddc8ae48dc9a447aefc50d558495990d6b27eab3c7feb9dd"
 metafile = true
 
 [[files]]
