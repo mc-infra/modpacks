@@ -1,6 +1,6 @@
 name = "project-432421"
 filename = "Vanilla_Additions_Dark_GUI_Add-On_1.2.5.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

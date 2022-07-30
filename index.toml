@@ -225,21 +225,21 @@ file = "config/loadmyresources/config.cfg"
 hash = "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5"
 
 [[files]]
-file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+file = "config/openloader/advanced_options.json"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
+file = "config/openloader/data/repurposed-structures-friends-and-foes-datapack.pw.toml"
 hash = "b683a4a1af4ed653c891fca46bd8e89b44ac81dcb3c5ecc94fb9a634c16bb4d2"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-more-villagers-datapack.pw.toml"
+file = "config/openloader/data/repurposed-structures-more-villagers-datapack.pw.toml"
 hash = "82966b766356961d0685468946ccddbb3e6ff2f9bbe764ea5755a1a3a84239ab"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/towers-of-the-wild-reworked-datapack.pw.toml"
+file = "config/openloader/data/towers-of-the-wild-reworked-datapack.pw.toml"
 hash = "e0927877d5f2f3dddf0445087527e58b7ea1803ab002419fdd5dd2e1e78ea1a2"
 metafile = true
 
@@ -254,10 +254,6 @@ hash = "d9bb6c2fdabd1da66caefde6f7be65b20858f1e4ffbf63d9630737afb01de627"
 [[files]]
 file = "config/snowrealmagic-common.toml"
 hash = "860b54b1f908dcd97d68e015646b8bcd3ce7ab0e50a1ee07a9fa399d1ddcd236"
-
-[[files]]
-file = "config/starterkit/starterkit-old.txt"
-hash = "2863ecc963d0153cdd3734ec46fe9f7ec2d6ccec575fe345fc061cfa5fa28045"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -1098,6 +1094,11 @@ hash = "1801c7de5966541cd9256e1b5f76f602eb328583e6f25d2d4b6634e8ceb8174d"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
+metafile = true
+
+[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "f92579278a2a0e0263f385ca624b2fe2c29830abafe7809549ba49b95300615d"
 metafile = true
@@ -1125,11 +1126,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
-metafile = true
-
-[[files]]
-file = "mods/paxi-fabric.pw.toml"
-hash = "d0a9744dca85bb9f5331e4a4ea0995d61bede26488a39d6df1d005fd9eb08fb7"
 metafile = true
 
 [[files]]
