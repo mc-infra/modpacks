@@ -69,10 +69,6 @@ file = "config/bclib/server.json"
 hash = "11736fdc03761560e311fffc7239eaabe660d49b4286589ca3056417258b34a9"
 
 [[files]]
-file = "config/bhmenu/bhmenu-client.properties"
-hash = "59f356bc413ed33068cb450afe13bfd18ce7c57f1b73e3e6d3df9eda1087f5ac"
-
-[[files]]
 file = "config/carrier.json"
 hash = "20c398f648029ede424360c5e33e582c814a036bbf4c03c769770201bbb0df8c"
 
@@ -110,11 +106,11 @@ hash = "b641a9875afdb83d8319633bc927bb0e009ac70b0a9c68663e3d7bae8fb10c35"
 
 [[files]]
 file = "config/fancymenu/customization/Main Menu.txt"
-hash = "4b3cc26ded57a94e77fc34e6c1deb169b33a802120a3bb52b541f5bfb85f97f6"
+hash = "7e50057468ed85e5b55a61f5e60e180b21eb79a3239f7dc4f93c09f181a026b3"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "b154337cb54d425f4f2fab3c71e43595562b0c131f0fb5e33c664af6d4d01626"
+hash = "d1d7d2e4c664d3f605e9a896ab40604a98d3284e041fb4d1f720fd01dd54a57a"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -527,6 +523,11 @@ hash = "91325a1416599cdd975e90b1ac2435f6c75b6afc7e56b30e9582567d2b02e216"
 metafile = true
 
 [[files]]
+file = "mods/cave-enhancements-fabric.pw.toml"
+hash = "1fec34360b65c94381f6585863680349e3752ff1df08dab5f4d9c79e3b4ca31d"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying-fabric.pw.toml"
 hash = "12189f57698bb77dfc9943bf64311a66ce71052414491fc549ca193a2495d779"
 metafile = true
@@ -579,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "7c95c7eb827be20a2ea98e9a5924e43c8123bfd2bcb01fdcc5a538d37faabe8f"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
 metafile = true
 
 [[files]]
@@ -748,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
 metafile = true
 
 [[files]]
