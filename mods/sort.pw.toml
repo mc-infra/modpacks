@@ -11,3 +11,8 @@ hash = "1018010e08c4656d6d993242e11d2960518778cf"
 [update.modrinth]
 mod-id = "3D0sXeHy"
 version = "k9UvlSm8"
+
+[option]
+optional = true
+default = true
+description = "A minimalistic and easy to use container sorter."
