@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/mc-infra/modpacks/releases/download/create-5/create-1.18.2-0.5.0c-703.jar"
 hash-format = "sha1"
-hash = "32824218329ae56c2d00987e740fef02aabcbcba"
+hash = "464e0b5a96d5dc9ed5263de329dafd203b0ac81d"
