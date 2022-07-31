@@ -336,6 +336,11 @@ hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
 
 [[files]]
+file = "mods/advancedreborn.pw.toml"
+hash = "47790610933527f75242e1022f48326e828ad1b1986001a801dd1dcc030ec7f9"
+metafile = true
+
+[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
@@ -911,6 +916,11 @@ hash = "832280e1dc3ccd858c8415daf0a92338dd8479c530ac1cb94bddddb9b9fb4b7b"
 metafile = true
 
 [[files]]
+file = "mods/gearreborn.pw.toml"
+hash = "6dd5e489e7dfe388adea19e1637acb8d487af656be8ce8e7a3f1f5338d30213c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "82bb46b33410b83af78f1ff08ae79ff4506767a07f7c0b09c53370f28052a02b"
 metafile = true
@@ -1236,8 +1246,18 @@ hash = "8e59815b193e52f162b5ded34a4b1dfdac31b880893ab286ac12a970903ceb4b"
 metafile = true
 
 [[files]]
+file = "mods/quarry-reborn.pw.toml"
+hash = "43ca32cb1e3ba894d65af2a98ce3807d0839f83868015197e44a0017d2e66177"
+metafile = true
+
+[[files]]
 file = "mods/quartz-elevator.pw.toml"
 hash = "438eb3835101279ea5c01cf042bdaa493e5f7d3b1569c29dbf68d6197dedbcd5"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
 metafile = true
 
 [[files]]
@@ -1326,6 +1346,16 @@ hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
 metafile = true
 
 [[files]]
+file = "mods/tech-reborn-patchouli.pw.toml"
+hash = "97f59fd153bf1a38ecfeb600cb192359fc7c3cbd1f443eec2a8a148b4d5850d0"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
 metafile = true
@@ -1388,6 +1418,11 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "7707e35d0bf49e11a3a4cf3a3039bf33c1a839178b9bd50f1366fff07726ef15"
+metafile = true
+
+[[files]]
+file = "mods/upc.pw.toml"
+hash = "b3e43c94bee9073ca501f84fc0d31f1fd292808e1e3e2b97df4378c9a7162fb0"
 metafile = true
 
 [[files]]
