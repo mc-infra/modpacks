@@ -73,10 +73,6 @@ file = "config/bhmenu/bhmenu-client.properties"
 hash = "59f356bc413ed33068cb450afe13bfd18ce7c57f1b73e3e6d3df9eda1087f5ac"
 
 [[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "f750776961bd858130403522e1fa9cfb94a3b1a81564d28778593ae90ca95feb"
-
-[[files]]
 file = "config/carrier.json"
 hash = "20c398f648029ede424360c5e33e582c814a036bbf4c03c769770201bbb0df8c"
 
@@ -616,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
+hash = "118a878a3a18b65d684eaff22f14db10b4c3210511df5b943c5bdd77cd8afc94"
 metafile = true
 
 [[files]]
