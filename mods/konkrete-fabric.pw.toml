@@ -1,13 +1,13 @@
 name = "Konkrete [Fabric]"
-filename = "konkrete_fabric_1.3.3-4_MC_1.18-1.18.2.jar"
+filename = "konkrete_fabric_1.4.0-1_MC_1.18-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e73b128a2ca0b3570d7c925c998f921d94ddf674"
+hash = "5d6f969ec07b68da8f9907e18201dbae02fdb3e4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3846467
+file-id = 3891634
 project-id = 416797
