@@ -351,6 +351,11 @@ hash = "8d03587684b77114d966fcb4abbee1ecfdd3305939f38fdfb7f4f45f4fd3a43a"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "7854bfed9702edf6733199d7c13eb119eecac715542ed991e8b6dde3f9c05cd0"
+metafile = true
+
+[[files]]
 file = "mods/aphid-additions.pw.toml"
 hash = "b4280ef1b2694b8c4be3f9bf196c9900408b4af65ef0111e54c9bd56f6207f2b"
 metafile = true
@@ -363,6 +368,16 @@ metafile = true
 [[files]]
 file = "mods/apollos-additional-structures.pw.toml"
 hash = "196bae8ab0877a760d6d35b5b5e7a19cc4742937a0028394b69e6d5a443fbb55"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "f68a88d276c5f7663f7748865addc677e5e85474921ec1c630c4d98b1fef363a"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "85c977e4c0b1183e17230521113a89819bd0b4893c15bd8c38230ea6b214ab64"
 metafile = true
 
 [[files]]
@@ -508,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
 metafile = true
 
 [[files]]
@@ -1048,6 +1068,11 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "2d28482058d2d26425ce201ff66684944cbf3bac2841cf4fbc9157fe51830fbe"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "028654bcb67c244e18ab0a528aae2d94479a752356231ba2b008aa5cea0e30f1"
 metafile = true
 
 [[files]]
