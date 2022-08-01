@@ -1292,6 +1292,11 @@ hash = "07aac5b0e1579af6f3cb233fd7725c25ddbbc6f14941b5bf2d0a38214e5fb556"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "0f7a8ef62b305f6f1d79f0f245d27a469ff67d028f165dec2e91cc1ec3de76d2"
 metafile = true
