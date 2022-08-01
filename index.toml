@@ -1227,11 +1227,6 @@ hash = "277f342e84421ba39688aee920c71c253cf5f6821f4c4551acd07df58130f3aa"
 metafile = true
 
 [[files]]
-file = "mods/trading-post-fabric.pw.toml"
-hash = "207cfe9efd50db40976b7ad5847ef954924c42168178d5c0aa737a00291828b8"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
@@ -1269,11 +1264,6 @@ metafile = true
 [[files]]
 file = "mods/villager-names-fabric.pw.toml"
 hash = "deca8ff4105151f6f38049fb3d537173464fef9fe466d94301339e47198ed76a"
-metafile = true
-
-[[files]]
-file = "mods/visual-workbench-fabric.pw.toml"
-hash = "8491ecf19a6e4e32088a8a16999ee87a0ef3be607dbf1df6f8a14290315d585c"
 metafile = true
 
 [[files]]
