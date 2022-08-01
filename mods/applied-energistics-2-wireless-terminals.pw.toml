@@ -1,0 +1,13 @@
+name = "Applied Energistics 2 Wireless Terminals"
+filename = "AE2WTLib-12.0.2-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/12.0.2-alpha-fabric/AE2WTLib-12.0.2-alpha.jar"
+hash-format = "sha1"
+hash = "d16fdd40a70a869f20f0ec894fa7017d909ef7ac"
+
+[update]
+[update.modrinth]
+mod-id = "pNabrMMw"
+version = "zG3Xrh8H"

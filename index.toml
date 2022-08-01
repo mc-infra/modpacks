@@ -518,6 +518,11 @@ hash = "f8c3d0c82375e13af90d6ee9f91fb59089b3b68233a7883ab963d3b3dc4ffb6f"
 metafile = true
 
 [[files]]
+file = "mods/advancedreborn.pw.toml"
+hash = "7a0dd077e38be5031b416d5f8b7e8815039e86ccc1a50ac40a3200e32fff805a"
+metafile = true
+
+[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
 metafile = true
@@ -528,6 +533,11 @@ hash = "e0571f73326c82da8cb8dedbb8bf7e598098daa573b62c6a24641163e08d50b9"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "146f807145a2490939f3e3705ca428ecafcaebeebc45aac7c8907f8b59411f15"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "180472f4a0e889f04fddb8a6ce3dac8d27701c89e652e51a751549fc1cf74f0c"
 metafile = true
@@ -535,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "845405be1a073ef6ad231d64e89c8a1e46bc5b876a49fc62dc0aa230426a2ba0"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "ec8ea0b493c48300fc9a7afa689f1728c823beaa9c562aa5024526ed49ac2120"
 metafile = true
 
 [[files]]
@@ -635,6 +650,11 @@ metafile = true
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "22a8754f7c1b8c6f844ee1e386397fe4c87b1a1d8765fc5415385014ae787c16"
+metafile = true
+
+[[files]]
+file = "mods/can-you-trash-it.pw.toml"
+hash = "3373eac145415f636383a8141043b72d411de1e7ca4586fc21c4510d4d7f4667"
 metafile = true
 
 [[files]]
@@ -913,6 +933,11 @@ hash = "f40ee1d98e3585cfae1d8950b40f7b53cc646a958e9e467f19727145f3aa4ec7"
 metafile = true
 
 [[files]]
+file = "mods/gearreborn.pw.toml"
+hash = "621421cd49d6d1da77a71ccef1501f4d88067ec7ca190ebe9ec1288c8bfd5d36"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5ed766bc2ca05f34d7c590b540b2ce440ee6baee06fa0e55b712cf175823cd37"
 metafile = true
@@ -1023,6 +1048,11 @@ hash = "46902c5093ff6acac3fc4c40583f8e38af28f4576c39f7132ad4d01e6e35ff28"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "2facc32153e3634a07946bf145253ef0a59571d0f2abeececfe16cab2f9f7394"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "41475a3f5e02e5392c4c3706feba5d3f22c9b76730264c1085f958f17ee8887d"
 metafile = true
@@ -1113,8 +1143,18 @@ hash = "20f7ee4e58d4b0328c02ba9767c2eac515c0a0081d9efeee0e19024a9d9f3955"
 metafile = true
 
 [[files]]
+file = "mods/quarry-reborn.pw.toml"
+hash = "bcd8f8ae65803011eb0b58f34a324490a7351b0e2bf5f921f1ee79dcf4f442bf"
+metafile = true
+
+[[files]]
 file = "mods/quartz-elevator.pw.toml"
 hash = "d0f8976f26538826996f85d4b86aab6340c07c70624ce765df83ab3a040807ab"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "ea03c71e6f46b7d436af379c21ebb243d870034de12ad1be0cb8b0ce4703252c"
 metafile = true
 
 [[files]]
@@ -1190,6 +1230,11 @@ metafile = true
 [[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "a99056e0e39b3e1ad57294363b5bdf26f54bb92fe6a9b10c17583e359401ec5a"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "0e2ee641a80ac1be141b7d575097d18b547f3e32027144f04399054d99dd2cd5"
 metafile = true
 
 [[files]]

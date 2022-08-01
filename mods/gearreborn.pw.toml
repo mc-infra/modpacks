@@ -1,0 +1,13 @@
+name = "Gear Reborn"
+filename = "GearReborn-1.19-0.1.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "802e72fb457b6c4c2106e38fb06dbef6a718e86e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3844389
+project-id = 418539
