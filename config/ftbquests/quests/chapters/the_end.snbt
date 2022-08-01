@@ -41,69 +41,12 @@
 			}]
 			rewards: [
 				{
-					id: "1919D53920738BB2"
-					type: "item"
-					item: "adventurez:dragon_saddle"
-				}
-				{
 					id: "1208CE8CEDA29E74"
 					type: "item"
 					item: "plushies:dragon_plushie"
 				}
 				{
 					id: "38CA92A17FD95654"
-					type: "xp"
-					xp: 100
-				}
-			]
-		}
-		{
-			x: 2.5d
-			y: -0.5d
-			optional: true
-			id: "21D51BCBD1818836"
-			tasks: [{
-				id: "64FF133673B090FC"
-				type: "kill"
-				title: "Kill a Enderwarthog"
-				icon: "adventurez:warthog_shell_piece"
-				entity: "adventurez:enderwarthog"
-				value: 1L
-			}]
-			rewards: [
-				{
-					id: "30858682690CF868"
-					type: "item"
-					item: "minecraft:ender_eye"
-				}
-				{
-					id: "459CB45077E841D0"
-					type: "xp"
-					xp: 100
-				}
-			]
-		}
-		{
-			x: 4.0d
-			y: -0.5d
-			optional: true
-			id: "523ECDEFE767B5D0"
-			tasks: [{
-				id: "0903C15F1037FC44"
-				type: "kill"
-				title: "Kill a Ender Whale"
-				icon: "adventurez:ender_whale_skin"
-				entity: "adventurez:ender_whale"
-				value: 1L
-			}]
-			rewards: [
-				{
-					id: "7EBB2B890D751802"
-					type: "item"
-					item: "minecraft:ender_eye"
-				}
-				{
-					id: "59AA5C036E2543A7"
 					type: "xp"
 					xp: 100
 				}

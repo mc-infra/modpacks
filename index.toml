@@ -102,7 +102,7 @@ hash = "417be0a07aa0d5748e1e0d361042bbb6e16294a57fce080a653ec1336daf5eab"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ef3c787b5f0cde95ea1ca92f204698675db25925b64ad93a15792908ffc8891e"
+hash = "cb1b36a6a6989369ba817ef62886309aafa725fbbdc87dfc9a10f50de9dcea9b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -182,7 +182,7 @@ hash = "d14bc3982236467784f1bb11a2cbbe6efc19f89c804ee69fb5f3669693e42182"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/overworld.snbt"
-hash = "7f701ef2e458d9d0a2815baa4f860837af21a2779ffde9073f12b2c4c5febd21"
+hash = "8dd6aa3876d51373b18f237f141546c4d39242690148ba17377b3740e4ee08e2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_aether.snbt"
@@ -190,11 +190,11 @@ hash = "fad8651847db96abf55b2df4d1b86b51facd40e1c3aac782750fb4212e09f631"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_end.snbt"
-hash = "f0fe5176a9615a4b958d952d0969b25c984a661910c36255fb42e81b9da2cd2e"
+hash = "06374844bcffd43987701a5db58f9ded1162058c5e8bd65aecb2f4fc87a20750"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_nether.snbt"
-hash = "3c0d954de3b9d23e4f4af11079a3f3f051c51dc7712d8d31c8576db51b7fba2a"
+hash = "f3fa28f16ae0f788ab7d7a083cf38d7a6b8165685e6ab77fc6ca533c86dec346"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
