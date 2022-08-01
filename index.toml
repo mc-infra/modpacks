@@ -502,11 +502,6 @@ hash = "12189f57698bb77dfc9943bf64311a66ce71052414491fc549ca193a2495d779"
 metafile = true
 
 [[files]]
-file = "mods/cherished-worlds-fabric.pw.toml"
-hash = "42b1a37836d766d5739972bf4986383aab55de1c51ad9eafd4edd0e4f81c501e"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
 metafile = true
@@ -832,11 +827,6 @@ hash = "6064b8f1be0463783bcd84d401b52bc2b168fc22b27c706713b1e4dbc4bff679"
 metafile = true
 
 [[files]]
-file = "mods/goblin-traders-fabric.pw.toml"
-hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
-metafile = true
-
-[[files]]
 file = "mods/goodall.pw.toml"
 hash = "2d43ed22d21ba49951c5659e13014d83e8f66f0b9dc34914b617c7b3733badcc"
 metafile = true
@@ -959,11 +949,6 @@ metafile = true
 [[files]]
 file = "mods/lovely-snails.pw.toml"
 hash = "5a388cb0190c991014b8ce1dad5af6811dba304a2d65d88af587d128c1f592bc"
-metafile = true
-
-[[files]]
-file = "mods/magnum-torch-fabric.pw.toml"
-hash = "a471f5bfb41967d11685a706851f6bb907fb9d847a00f4cca87e67ff131b4cfe"
 metafile = true
 
 [[files]]
@@ -1099,11 +1084,6 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
-metafile = true
-
-[[files]]
-file = "mods/pick-up-notifier-fabric.pw.toml"
-hash = "a7c91880d5bd29b227e94df3dd4aee00b0f894bd6de0879ea027bb10b68ce5c1"
 metafile = true
 
 [[files]]
@@ -1259,11 +1239,6 @@ metafile = true
 [[files]]
 file = "mods/villager-hats.pw.toml"
 hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
-metafile = true
-
-[[files]]
-file = "mods/villager-names-fabric.pw.toml"
-hash = "deca8ff4105151f6f38049fb3d537173464fef9fe466d94301339e47198ed76a"
 metafile = true
 
 [[files]]
