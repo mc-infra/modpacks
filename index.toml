@@ -611,6 +611,11 @@ hash = "89a198dfecd72beb0d9b599d14188650d503780b6883b4a2c304251105d7a870"
 metafile = true
 
 [[files]]
+file = "mods/command-gui-buttons.pw.toml"
+hash = "0aaf0bed8bcfd4ef6ec702739f767189c2f3dbfea87af5be1db28cc175521199"
+metafile = true
+
+[[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "9f6e91210d4f90007541000ff482119f9b228d318e0d2eb0234cfcb38b53a81f"
 metafile = true
@@ -943,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/grizzly-bear.pw.toml"
 hash = "2e29234c97bc69e4d6255c779d63f4db93871d1708a38dfe0235dda7b92441db"
+metafile = true
+
+[[files]]
+file = "mods/hotbarcycle.pw.toml"
+hash = "417207595f4f7bad7fd126f074d9b812cf55ffce2584529667c6965e64965862"
 metafile = true
 
 [[files]]

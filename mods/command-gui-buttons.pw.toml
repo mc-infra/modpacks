@@ -1,0 +1,13 @@
+name = "Command GUI Buttons（Fork）"
+filename = "command-gui-buttons-mc1.18.2-fabric-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1E3oheF7/versions/1.0.1/command-gui-buttons-mc1.18.2-fabric-1.0.1.jar"
+hash-format = "sha1"
+hash = "7a8e276c81fb2bab48a7b31e39d78f2e1224c219"
+
+[update]
+[update.modrinth]
+mod-id = "1E3oheF7"
+version = "HQnRjYIm"
