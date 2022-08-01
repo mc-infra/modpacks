@@ -462,6 +462,11 @@ hash = "43b267ab1abf43db08d5b1b57d24e1a090fcd5c7df6673a105013a9015d956ad"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
 metafile = true
@@ -1234,11 +1239,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
-metafile = true
-
-[[files]]
-file = "mods/universal-bone-meal-fabric.pw.toml"
-hash = "6446273b387acd0a7c9b74c24fdec46b0425d4ca06740fc5c89ca6ce810a3ded"
 metafile = true
 
 [[files]]
