@@ -237,6 +237,250 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/broken_windmill.json"
+hash = "4ffd03c8ad439e08e7bccfee01e5c5a2660db901cd0a8a6e2cad5aa0d8ac01ba"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/crashed_rocket.json"
+hash = "0df7771f5de555b0438579910d7e57bb3a3d431a0f0e1068dcb3fba41066cfa4"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/log_cabin.json"
+hash = "fdc8a9559bae334ae6f177c85f2f9f240df3d98b9c0aaf49b463ce1b59b86fde"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/moonbase.json"
+hash = "cb0704416bbd22fa713d18b27ec154e9f1d6818552fb8c10127f06a7bb8a62f2"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/oil_fountain.json"
+hash = "5fc10abb64d2abe53618187f82058bcae4d21ba757615d5f7241f8c9d13d41d0"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/railshaft.json"
+hash = "1cf812114099b964a5f19c4e0e9619d94747b147333cf7b0fb6e3cbec8e58e11"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/ruins.json"
+hash = "4a57ab257b28af21c735d8b0d99c95201d5037d7123ee5597ccb385497465c4f"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/slime.json"
+hash = "65b9846d3159fedfb0dfbaaaa8f3f555edbd1da4c76d398004781abd019db5e7"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structure_spawners/underground_lab.json"
+hash = "9d9d5e3667d55cc56ff8bc0855f940c5a1cb7747ead9a893cc15cd039f4a6475"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/blacksmith_shop.nbt"
+hash = "d56498be0adbb6353c75ad0b27b048d86da13d77ee89e6bd204136ef71fcadbf"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/broken_windmill.nbt"
+hash = "263b359ed8c179ce4a552b1c8c33e61c88fb8207287f468d9deb9f7d2006cb30"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/campsite.nbt"
+hash = "9019724102ac5015d2559d06295ea9b621933a3e22edccf4c952b8bcbaefb8b9"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/crashed_rocket.nbt"
+hash = "23c4b6eb8e1e8633419fc8b672681473e750d5fd3a87f1af0eec7e1f65c11000"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/log_cabin.nbt"
+hash = "2a394b2378cc3f985e9397ac380e3ec205e609001f8392b96285a4bdc8889955"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/moonbase_cargo.nbt"
+hash = "3fecbd337fc13ad53c2e2625ef3ef0ed556120d9e06831b847b548d509b9057c"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/moonbase_me.nbt"
+hash = "09f6b08ab8ca2012237daab85b20c881853c79cd00d75e810d2529445b5f554a"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/moonbase_oxygen.nbt"
+hash = "1ed99eed4d47569d1558f5ffd7abaa5b658dcf67c832e3e23046ce4b8c90fdcd"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/moonbase_rusty.nbt"
+hash = "adb4883c4aac0ea6180a63c46bf9e75c1e654383672f25324491132f4605c2f7"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/moonbase_wreck.nbt"
+hash = "0c0d40f8fcba0fabbc5298fcf2c11993cb520efd90b07ef66115bbf936d87d3a"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/oil_fountain.nbt"
+hash = "da7422d6feb5d99ee162ef50605624f31ec9b54662efb0e16663612af636bf9c"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/oil_fountain_1.nbt"
+hash = "6f958bdf9e0588b78d2a9eb1ab4edfbbe0d5a876a6d88d9a38bd2ded10389e37"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/bad_ending.nbt"
+hash = "9d1fd4e4e17bb5f5e871e8e9014510e8a5056fb4b9a22f879ca48e2cffa799ad"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/good_ending.nbt"
+hash = "df5e9f6b8e8846d8716b1f607d95298ca1ac2e28da37bf5f01256d379cf41d78"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/house.nbt"
+hash = "9f468f86d64fa99337b48d027260eba538a3ce9ee4e5c9ee0bfaebafcbf04cb8"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/slope_both.nbt"
+hash = "95e5253f181ecaa9edd3a3b62b7936025fc44179799b84015a41834651213441"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/slope_left.nbt"
+hash = "c1bef5ce83069c0f4e50624af9b58fc31008da98f4e7d06851d5e0d13f35c916"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/slope_right.nbt"
+hash = "32c78472e6341989c540f8f6b9bca180512afd816e58d4e02da7c9a3902acda5"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/slope_straight.nbt"
+hash = "057e6b04e2c2b44018c0e774e72db7fddeee29556e54fb845cc370e77330d805"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/watery.nbt"
+hash = "13236d6f0050517c1a7c3dd61ab0f67a6dc8d0f9a3169a1c7158256350389043"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/railshaft/weak_slope.nbt"
+hash = "538fad3c6e2704106a827b4848b0e6beadd335a2d1e8e56e903ee80ec4befe2c"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/arch.nbt"
+hash = "228bc65a80a73c9a77897f8e79dbec6a851380f65b4dcfe98298127af95b34ff"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/bridge.nbt"
+hash = "404d14c557731631b517f6240edd47b02241fb318d75b0e55b7654bbddc4e798"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/crossing.nbt"
+hash = "9bee3e5fb5151709c6ea4c21c47155783bc19d5e8001880be5e3e9616e67f4b5"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/end.nbt"
+hash = "5ea34d7a11be1eb5e2413240d01b7f9d84c5319f429f2ec2c81c4874b3303d32"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/foundation.nbt"
+hash = "28de39aa71e986d58ed14eefd0b6c9e977638ffa988446a9f68c1411af68a846"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/house.nbt"
+hash = "e6ad2e042b006f0cd22249e4ae2464a00859c2e54e86f1100fbad8a62ba6969a"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/spires.nbt"
+hash = "2b94c3de0c4961f3712c95fa79044331bc6b7860a5f4e74516ff66d0338b063b"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/straight.nbt"
+hash = "e949312aef772f4e9466512f10135ca6de20a6597245391724684eca2373e6fd"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/tower.nbt"
+hash = "3cc4c7b0f3900ba8d99230504156bc3c3c7beb29d3afca677d5be82696006da6"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/ruins/gabbro/turn.nbt"
+hash = "e7fd5b5372c17311c7f9cb33199d2ff46df71b9dd4e2ab592977456f40a88281"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/slime/blue.nbt"
+hash = "09566981475e532d08c8354a00f0d83283dc3c668033b61f221fef92942f9d4a"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/slime/blue_1.nbt"
+hash = "5c9c33ba43332d72a14f1cc7b11cb67bc23424ba3411c025ece5e6bcc8a712b7"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/slime/blue_2.nbt"
+hash = "ceecbde9e4d74bffe4634796da6a02811ebb71b2e7fd969b1c8ad80d154bcbc8"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/slime/blue_small.nbt"
+hash = "de9e0a4108cd1b2fbb99dd180fd5dd4640154c2e0b0ecd74c70af384da871b0b"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/slime/green.nbt"
+hash = "15b2653825cb32ca4a53cd7987e2c223ac6879fef96eb3624a6aeca02b6dca28"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/slime/green_small.nbt"
+hash = "e27aec400af41bcf4014630dfb0da59f6a0a97724bdabdfffba285e39816339e"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/slime/purple.nbt"
+hash = "0afff39dd0f473c6a6d5a4eb29fca2e42c3f8ea1b686bd9b2d44e2190da7cc08"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/slime/purple_small.nbt"
+hash = "329adb4777e0ead7cb86644a5b46c690ba93bf01d3dd25d20b489338af45f210"
+
+[[files]]
+file = "config/paxi/datapacks/pack/structures/underground_lab.nbt"
+hash = "035dccdd94a44f7910ce44f350476d90c738ad63e7fcfd77f0eaf36d94373423"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/moonbase.json"
+hash = "2927a915a1e81c1bce97962efe913007626e623762100a9761f445c3f550a619"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/oil_fountain.json"
+hash = "8df40d080efc418e9b09a1ba4617e83cdfbc9e2097da6b05af35c146f1b12dd8"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/railshaft/after_horizontal.json"
+hash = "e26e40b57e67d5f92f35f7efc2f4e4cb5431c96a225a12d6f4cabe1d74c7899d"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/railshaft/after_slope.json"
+hash = "7a7088100160bf1ffe7bc94fe72d6029ee29e08f22983eb602c1296578ba4547"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/railshaft/first.json"
+hash = "2d24c7b2e677153ea0402a0a95e3d250243971ceb69d5df13de10b65a7989a1b"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/railshaft/house.json"
+hash = "661d65b917a3e5ba96b945abb884b72eb9b0ce7dc14e66e0bf2c7b0a4c44f0f3"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/ruins/any.json"
+hash = "bb60e3652b9a72b2538d8df59f2dba779dada9e9fe253e3c1147bc98258d372c"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/ruins/gabbro.json"
+hash = "a671f6fe38d5fd7d61c04c9e165e6da4a8c49af069a1b2bb211366423c6c574b"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/slime/any.json"
+hash = "b62a61527b71af5b0f0c9bceeb316632023193460f67019f64c1db429d1ae497"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/slime/blue_1.json"
+hash = "a9b48cc7e8a3f0edfdca1227158d30bd8dfd21e6bb464e67673c92f796087d3e"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/slime/blue_2.json"
+hash = "4670ed2ba4f3b4d03ff98872b65ec207f9e0f349cdc65412949343fdb183cf26"
+
+[[files]]
+file = "config/paxi/datapacks/pack/worldgen/template_pool/surface_build.json"
+hash = "02db36fed8254808812cca0e3485205c548504c705bccdd6ada501fd186e4533"
+
+[[files]]
 file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
 hash = "b683a4a1af4ed653c891fca46bd8e89b44ac81dcb3c5ecc94fb9a634c16bb4d2"
 metafile = true
@@ -966,11 +1210,6 @@ hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "a226f8fd112cc69f1aa70039a657f76060cd8a71b5c6f1e47b282bbf26f35063"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
 metafile = true
@@ -1166,11 +1405,6 @@ hash = "1801c7de5966541cd9256e1b5f76f602eb328583e6f25d2d4b6634e8ceb8174d"
 metafile = true
 
 [[files]]
-file = "mods/overweight-farming.pw.toml"
-hash = "f92579278a2a0e0263f385ca624b2fe2c29830abafe7809549ba49b95300615d"
-metafile = true
-
-[[files]]
 file = "mods/oxidized.pw.toml"
 hash = "7459aae0be7bc9fe753bc50ddbfdd3f70fed3bfe43b5e0d8d57875ee24422c9d"
 metafile = true
@@ -1243,6 +1477,11 @@ metafile = true
 [[files]]
 file = "mods/probably-chests.pw.toml"
 hash = "0a275bd09d55b142b3aaf37e59c12fc9f61155f903735fcfd3259b7fe16af4be"
+metafile = true
+
+[[files]]
+file = "mods/purpeille.pw.toml"
+hash = "e8f540789a9fc6a8cc328a30c99b04278f234714d7462e342072007e32727a0e"
 metafile = true
 
 [[files]]
